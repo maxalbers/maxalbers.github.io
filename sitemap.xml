@@ -2,8 +2,11 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://max-albers.de/</loc><lastmod>2022-08-21T22:24:13&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://max-albers.de/posts/</loc><lastmod>2022-08-21T22:24:13&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://max-albers.de/my-first-post/</loc><lastmod>2022-08-21T22:24:13&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://max-albers.de/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://max-albers.de/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://max-albers.de/about/</loc><lastmod>2022-08-22T19:31:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/</loc><lastmod>2022-08-22T19:31:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/tags/norwegen/</loc><lastmod>2022-08-22T19:31:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/2022/08/norwegen-wanderung-myrh%C3%B8nna/</loc><lastmod>2022-08-22T19:31:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/posts/</loc><lastmod>2022-08-22T19:31:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/tags/</loc><lastmod>2022-08-22T19:31:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/tags/urlaub/</loc><lastmod>2022-08-22T19:31:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/tags/wanderung/</loc><lastmod>2022-08-22T19:31:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
