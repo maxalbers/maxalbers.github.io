@@ -22,7 +22,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --baseURL ${{ env.BASE_URL }}
+        run: hugo --minify --baseURL "https://max-albers.de"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
