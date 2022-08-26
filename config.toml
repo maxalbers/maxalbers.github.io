@@ -291,6 +291,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     RootMe= ""
     Phone = ""
     Email = "" # xy@example.com
+    Komoot = "297363564652" # added via themes/LoveIt/assets/data/social.yaml
     RSS = true #
 
     [params.social.Paypal]
@@ -328,7 +329,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # whether to enable the table of the contents
       enable = true
       #  whether to keep the static table of the contents in front of the post
-      keepStatic = true
+      keepStatic = false
       # whether to make the table of the contents in the sidebar automatically collapsed
       auto = true
     #  KaTeX mathematical formulas
@@ -629,7 +630,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [outputFormats.MarkDown]
   mediaType = "text/plain"
   isPlainText = true
-  isHTML = false
+  isHTML = true
 
 # Options to make hugo output files
 [outputs]
