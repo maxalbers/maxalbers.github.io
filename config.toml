@@ -291,7 +291,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     RootMe= ""
     Phone = ""
     Email = "" # xy@example.com
-    Komoot = "297363564652" # added via themes/LoveIt/assets/data/social.yaml
+    #Komoot = "297363564652" # need commit to themes/LoveIt/assets/data/social.yaml
     RSS = true #
 
     [params.social.Paypal]
