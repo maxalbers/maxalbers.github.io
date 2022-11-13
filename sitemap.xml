@@ -2,22 +2,26 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://max-albers.de/tags/den-haag/</loc><lastmod>2022-09-11T18:49:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://max-albers.de/2022/09/die-ersten-tage-orientation-week-leiden-owl/</loc><lastmod>2022-09-11T18:49:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://max-albers.de/tags/leiden/</loc><lastmod>2022-09-11T18:49:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://max-albers.de/</loc><lastmod>2022-09-11T18:49:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://max-albers.de/tags/owl/</loc><lastmod>2022-09-11T18:49:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://max-albers.de/posts/</loc><lastmod>2022-09-11T18:49:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://max-albers.de/tags/scheveningen/</loc><lastmod>2022-09-11T18:49:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://max-albers.de/tags/</loc><lastmod>2022-09-11T18:49:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://max-albers.de/tags/bahn/</loc><lastmod>2022-08-25T01:09:19&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://max-albers.de/tags/erasmus/</loc><lastmod>2022-08-25T01:09:19&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://max-albers.de/2022/08/es-geht-los-fahrt-nach-den-haag/</loc><lastmod>2022-08-25T01:09:19&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://max-albers.de/tags/fahrrad/</loc><lastmod>2022-08-25T01:09:19&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://max-albers.de/tags/swapfiets/</loc><lastmod>2022-08-25T01:09:19&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://max-albers.de/tags/wohnung/</loc><lastmod>2022-08-25T01:09:19&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://max-albers.de/about/</loc><lastmod>2022-08-22T19:35:44&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://max-albers.de/tags/norwegen/</loc><lastmod>2022-08-22T19:31:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://max-albers.de/2022/08/norwegen-wanderung-myrh%C3%B8nna/</loc><lastmod>2022-08-22T19:31:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://max-albers.de/tags/urlaub/</loc><lastmod>2022-08-22T19:31:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://max-albers.de/tags/wanderung/</loc><lastmod>2022-08-22T19:31:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url></urlset>
+            <loc>https://max-albers.de/tags/ausfl%C3%BCge/</loc><lastmod>2022-11-13T13:55:53&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/</loc><lastmod>2022-11-13T13:55:53&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/posts/</loc><lastmod>2022-11-13T13:55:53&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/tags/</loc><lastmod>2022-11-13T13:55:53&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/tags/uni/</loc><lastmod>2022-11-13T13:55:53&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/tags/update/</loc><lastmod>2022-11-13T13:55:53&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/2022/11/update-aus-den-tiefen-der-gracht-diving_mask/</loc><lastmod>2022-11-13T13:55:53&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/tags/den-haag/</loc><lastmod>2022-09-11T18:49:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://max-albers.de/2022/09/die-ersten-tage-orientation-week-leiden-owl/</loc><lastmod>2022-09-11T18:49:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://max-albers.de/tags/leiden/</loc><lastmod>2022-09-11T18:49:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://max-albers.de/tags/owl/</loc><lastmod>2022-09-11T18:49:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://max-albers.de/tags/scheveningen/</loc><lastmod>2022-09-11T18:49:41&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://max-albers.de/tags/bahn/</loc><lastmod>2022-08-25T01:09:19&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://max-albers.de/tags/erasmus/</loc><lastmod>2022-08-25T01:09:19&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://max-albers.de/2022/08/es-geht-los-fahrt-nach-den-haag/</loc><lastmod>2022-08-25T01:09:19&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://max-albers.de/tags/fahrrad/</loc><lastmod>2022-08-25T01:09:19&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://max-albers.de/tags/swapfiets/</loc><lastmod>2022-08-25T01:09:19&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://max-albers.de/tags/wohnung/</loc><lastmod>2022-08-25T01:09:19&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://max-albers.de/about/</loc><lastmod>2022-08-22T19:35:44&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://max-albers.de/tags/norwegen/</loc><lastmod>2022-08-22T19:31:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://max-albers.de/2022/08/norwegen-wanderung-myrh%C3%B8nna/</loc><lastmod>2022-08-22T19:31:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://max-albers.de/tags/urlaub/</loc><lastmod>2022-08-22T19:31:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://max-albers.de/tags/wanderung/</loc><lastmod>2022-08-22T19:31:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
