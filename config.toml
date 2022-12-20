@@ -354,7 +354,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     #  Mapbox GL JS config
     [params.page.mapbox]
       # access token of Mapbox GL JS
-      accessToken = ""
+      accessToken = "pk.eyJ1IjoibWFsYmVycyIsImEiOiJjbGJ3cnU3YzUyYXA3M3BrZWVnenV6OHViIn0.MQM3FR0EUxKYX9xsP3QrWA"
       # style for the light theme
       lightStyle = "mapbox://styles/mapbox/light-v10?optimize=true"
       # style for the dark theme
