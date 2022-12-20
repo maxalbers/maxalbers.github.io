@@ -5,7 +5,7 @@ draft: false
 lightgallery: true
 tags: ["kas", "seminar", "edinburgh","ausflüge"]
 toc:
-  enable: false
+  enable: true
   auto: true
 resources:
 - name: featured-image-preview
