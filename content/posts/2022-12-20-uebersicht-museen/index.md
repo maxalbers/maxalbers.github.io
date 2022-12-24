@@ -24,10 +24,10 @@ Diese Übersicht ist noch im Aufbau. Ich habe bereits alle besuchten Museen ange
 | Stadt | Name des Museums | Kategorie | Gesamteindruck |
 | :--- | :--- | :--- | :--- |
 | Den Haag | [Mauritshuis](https://www.mauritshuis.nl/) | Gemälde, u.a. Goldenes Zeitalter, 17. Jhd. | :classical_building::classical_building::classical_building::classical_building: |
-| Den Haag | [Escher in het Paleis](https://www.escherinhetpaleis.nl/) | Abstrakte Kunst, Zeichnung | :classical_building::classical_building: |
+| Den Haag | [Escher in het Paleis](https://www.escherinhetpaleis.nl/) | Abstrakte Kunst, Zeichnung | :classical_building::classical_building::classical_building: |
 | Den Haag | [Panorama Museum Mesdag](https://www.panorama-mesdag.nl/) | Strandpanorama Scheveningen | :classical_building::classical_building::classical_building::classical_building: |
 | Den Haag | [Atlantikwall Museum](https://www.atlantikwallmuseum.nl/) | 2. Weltkrieg, historisches Denkmal | :classical_building::classical_building::classical_building::classical_building::classical_building:
-| Leiden | [Rijksmuseum Boerhaave](https://www.rijksmuseumboerhaave.nl/) | Wissenschaftsgeschichte | :classical_building::classical_building::classical_building: |
+| Leiden | [Rijksmuseum Boerhaave](https://www.rijksmuseumboerhaave.nl/) | Wissenschaftsgeschichte | :classical_building::classical_building: |
 | Leiden | [Museum De Lakenhal](https://www.lakenhal.nl/) | Städtisches Museum, Lokalgeschichte, Gemälde | :classical_building::classical_building::classical_building::classical_building: |
 | Leiden | [Rijksmuseum van Oudheden](https://www.rmo.nl/) | Archäologie | :classical_building::classical_building::classical_building::classical_building::classical_building: |
 | Leiden | [Naturalis](https://www.naturalis.nl/) | Naturkunde | :classical_building::classical_building: |
@@ -64,7 +64,7 @@ Auch dem Escher-Museum habe ich einen Besuch im Rahmen der Museumsnacht gewidmet
 
 {{< image src="escher1_c.jpg" src_l="escher1.jpg" height="100%;" >}}
 
-Das Museum selbst zeigt eine Vielzahl seiner Werke, allerdings mit überschaubarer Hintergrundinformation. Dies könnte auch darin begründet liegen, dass die Bilder häufig für sich selbst sprechen. Mein persönliches Interesse an dieser Kunstform ist allerdings nicht so groß, dass ich mir mehr als ein Dutzend dieser Werke ansehen würde.
+Das Museum selbst zeigt eine Vielzahl seiner Werke, allerdings mit überschaubarer Hintergrundinformation. Dies könnte auch darin begründet liegen, dass die Bilder häufig für sich selbst sprechen. Mein persönliches Interesse an dieser Kunstform ist allerdings nicht so groß, dass ich mir mehr als ein Dutzend dieser Werke ansehen würde. Das Museum ist nicht mit der Museumkaart zugänglich.
 
 {{< my-own-image-v1 src="escher2_c.jpg" src_l="escher2.jpg" width="50%" >}}
 
@@ -92,11 +92,31 @@ Das Atlantikwall-Museum ist besonders interessant für jeden, der einen Einblick
 ### Rijksmuseum Boerhaave
 Adresse: [Lange Sint Agnietenstraat 10, 2312 WC Leiden](https://goo.gl/maps/Uo7LZoZhu2xU9Too9)
 
+Das Museum Boerhaave zeigt zahlreiche Exponate zur Geschichte der Naturwissenschaften und Medizin. Es ist in einem alten Kloster untergebracht und besteht deshalb aus vielen verwinkelten Räumen. Mein Besuch liegt bereits über drei Monate zurück, daher könnte mich meine Erinnerung teilweise täuschen. Allerdings kamen mir die Erklärungen zu den einzelnen Exponaten deutlich zu dünn. Den Teil zur Geschichte der Medizin habe ich aus Zeitgründen nur flüchtig gesehen, dieser war besser beschrieben und teilweise interaktiver. Das anatomische Kino zeigte einen projizierten Körper mit seinen Bestandteilen und auch wenn es inhaltlich oberflächlich blieb, war der Eindruck interessant. Insgesamt blieb das Museum für mich aber weitgehend farblos.
+
 ### Museum De Lakenhal
 Adresse: [Oude Singel 32, 2312 RA Leiden](https://goo.gl/maps/m3E4zmuoGQAFSNDo8)
 
+Wer Lust auf einen kurzweiligen Museumsbesuch hat, ist im Museum De Lakenhal richtig. Aus meiner Sicht ist es zu leicht übersehen, lokalisiert im alten Haus der Tuchmacher-Gilde aus dem Jahr 1640. Dieses liegt am Kanal Oude Singel, unweit des Lammermarkt. Das Museum ist das städtische Museum und zeigt viele Leidener Künstler, insbesondere auch eine große Ausstellung aus dem Goldenen Zeitalter. Mir hat sehr gut gefallen, dass die alten Gemälde gut strukturiert und gruppiert mit umfangreichen Zusatzinformationen versehen wurden. Beispielsweise gibt es zu einigen Gemälden Erklärtafeln, die den Blick des Besuchers auf die bedeutsamen Stellen des Werkes lenken.
+
+{{< my-own-image-v1 src="lakenhal2_c.jpg" src_l="lakenhal2.jpg" caption="Jan van Goyen: Gezicht op Leiden (1650)." >}}
+
+Die Ausstellung alter und imposanter Gemälde wird ergänzt um Werke ganz anderer Epochen wie des Impressionismus, aber auch eine zur Zeit meines Besuches geöffnete Sonderausstellung &raquo;Imagine Intuition&laquo; zu menschlichen Gefühlen und Eigenschaften in Form von Skulpturen und Installationen. Dieser abstrakte Bereich des Museums steht sicher bewusst im Kontrast zur Ausstellung der Klassiker und ergänzt diese in meinem Empfinden gut. Nicht zu vergessen sind auch die nennenswerte Ausstellung zur Lokalgeschichte wie den Feierlichkeiten und historischen Begebenheiten rund um den 3&nbsp;october sowie die original erhaltenen Räumlichkeiten der Tuchmacher-Gilde mit beeindruckenden Wandverzierungen und einem Tisch zur Warenkontrolle.
+
+{{< my-own-image-v1 src="lakenhal1_c.jpg" src_l="lakenhal1.jpg" caption="Sonderausstellung Imagine Intuition." >}}
+
+{{< my-own-image-v1 src="lakenhal3_c.jpg" src_l="lakenhal3.jpg" caption="Ausstellung zur Befreiung Leidens von der spanischen Belagerung am 3. Oktober 1574. Dieser Wendepunkt gilt gleichzeitig auch als Ausgangspunkt für die Gründung der Universität im Folgejahr." >}}
+
 ### Rijksmuseum van Oudheden
 Adresse: [Rapenburg 28, 2311 EW Leiden](https://goo.gl/maps/TaHjb5kPWPoySVd48)
+
+Das Rijksmuseum van Oudheden in Leiden ist auch einen Besuch wert. Es handelt sich um das nationale archäologische Museum der Niederlande mit einem Fokus auf frühe Kulturen im angrenzenden Mittelmeerraum. Man sollte für einen Besuch einige Stunden einplanen, denn es beherbergt eine Fülle an Exponaten, von denen fast jedes interessant und sehenswert ist. Mit der kleinen Gruppe an Bekannten habe ich das Museum besichtigt und dabei ausschließlich die ägyptische Ausstellung im Erdgeschoss gesehen. Allein diese war für mich, der bisher keine alt-ägyptischen Mumien, Totengräber, Schriften oder Statuen gesehen hatte, sehr beeindruckend. Wie die meisten der hier vorgestellten Museen ist auch dieses modern renoviert und eine ausgezeichnete Lichtinstallation setzt im Zusammenspiel aus Licht und Schatten die Exponate eindrucksvoll in Szene. Wenn möglich, möchte ich gerne auch den anderen Ausstellungsbereichen einen Besuch abstatten. Für Studenten ist der Museumseintritt kostenfrei möglich.
+
+{{< my-own-image-v1 src="oudheden1_c.jpg" src_l="oudheden1.jpg" >}}
+
+{{< my-own-image-v1 src="oudheden2_c.jpg" src_l="oudheden2.jpg" >}}
+
+{{< my-own-image-v1 src="oudheden3_e_c.jpg" src_l="oudheden3_e.jpg" >}}
 
 ### Naturalis
 Adresse: [Darwinweg 2, 2333 CR Leiden](https://goo.gl/maps/roAZ4e4F34mmiLpN8)
