@@ -2,6 +2,8 @@
 {{- $src := .Src -}}
 {{- $width := .Width -}}
 {{- $height := .Height -}}
+{{- $maxwidth := .MaxWidth -}}
+{{- $maxheight := .MaxHeight -}}
 {{- with dict "Path" $src "Resources" .Resources | partial "function/resource.html" -}}
     {{- $src = .RelPermalink -}}
 {{- end -}}
@@ -27,8 +29,10 @@
             data-srcset="{{ $small | safeURL }}, {{ $src | safeURL }} 1.5x, {{ $large | safeURL }} 2x"
             data-sizes="auto"
             alt="{{ $alt }}"
-            style="margin: .5rem; {{ if or ($width) ($height) }} display: block; margin-left: auto; margin-right: auto; width: {{ $width | default "auto" }}; height: {{ $height | default "auto" }};{{ end }}"
-            />
+            style="margin: .5rem; display: block; margin-left: auto; margin-right: auto; {{ if or ($width) ($height) }} width: {{ $width | default "auto" }}; height: {{ $height | default "auto" }};{{ end }}
+            {{- with $maxwidth -}} max-width: {{ . }}; {{- end -}}
+            {{- with $maxheight -}} max-height: {{ . }}; {{- end -}}
+            " />
     </a>
 {{- else -}}
     <img
@@ -39,6 +43,8 @@
         data-sizes="auto"
         alt="{{ $alt }}"
         title="{{ .Title | default $alt }}"
-        style="margin: .5rem; {{ if or ($width) ($height) }} display: block; margin-left: auto; margin-right: auto; width: {{ $width | default "auto" }}; height: {{ $height | default "auto" }};{{ end }}"
-        />
+        style="margin: .5rem; display: block; margin-left: auto; margin-right: auto; {{ if or ($width) ($height) }} width: {{ $width | default "auto" }}; height: {{ $height | default "auto" }};{{ end }}
+        {{- with $maxwidth -}} max-width: {{ . }}; {{- end -}}
+        {{- with $maxheight -}} max-height: {{ . }}; {{- end -}}
+        " />
 {{- end -}}
