@@ -3,7 +3,7 @@ title: "Übersicht der Museen"
 date: 2022-12-20T22:00:40+02:00
 draft: false
 lightgallery: true
-tags: ["museen", "übersicht"]
+tags: ["museen", "übersicht", "ausflüge"]
 toc:
   enable: true
   auto: true
@@ -30,7 +30,7 @@ Diese Übersicht ist noch im Aufbau. Ich habe bereits alle besuchten Museen ange
 | Leiden | [Rijksmuseum Boerhaave](https://www.rijksmuseumboerhaave.nl/) | Wissenschaftsgeschichte | :classical_building::classical_building: |
 | Leiden | [Museum De Lakenhal](https://www.lakenhal.nl/) | Städtisches Museum, Lokalgeschichte, Gemälde | :classical_building::classical_building::classical_building::classical_building: |
 | Leiden | [Rijksmuseum van Oudheden](https://www.rmo.nl/) | Archäologie | :classical_building::classical_building::classical_building::classical_building::classical_building: |
-| Leiden | [Naturalis](https://www.naturalis.nl/) | Naturkunde | :classical_building::classical_building: |
+| Leiden | [Naturalis](https://www.naturalis.nl/) | Naturkunde | :classical_building::classical_building::classical_building: |
 | Leiden | [Molenmuseum de Valk](https://molenmuseumdevalk.nl/) | Lokalgeschichte, historisches Denkmal | :classical_building::classical_building: |
 | Amsterdam | [Stedelijk](https://www.stedelijk.nl/nl) | Zeitgenössische Kunst, Design | :classical_building::classical_building::classical_building: |
 | Amsterdam | [Koninklijk Paleis op de Dam](https://www.paleisamsterdam.nl/) | Königspalast für Staatsempfänge | :classical_building::classical_building: |
@@ -49,13 +49,13 @@ Adresse: [Plein 29, 2511 CS Den Haag](https://goo.gl/maps/aouMMz8srAJUKe3s6)
 
 Das Mauritshuis zählt sicher zu den bekanntesten Museen Den Haags, stellt es doch verschiedene berühmte Gemälde von Malern wie Vermeer oder Rembrandt aus. Ich habe das Museum im Rahmen der Museumsnacht Den Haag besucht und mir hat es sehr gut gefallen. Das Museum befindet sich in einer ehemaligen Residenz des Gouverneurs von Niederländisch-Brasilien, Johan Maurits van Nassau-Siegen. Es ist sehr prunkvoll im Stil des Holländischen Klassizismus errichtet und gibt den eindrucksvollen Gemälden einen hervorragenden Raum. Mir hat gut gefallen, dass man in den kleinen Räumen und schmalen Gängen den Gemälden fast auch Tuchfühlung gehen konnte. Ferner wurde die historische Ausstellung mit einigen zeitgenössischen Kunstwerken komplementiert, die unmittelbar neben den Klassikern aufgehangen, eine frische Gesamtkomposition ergaben.
 
-{{< my-own-image-v1 src="mauritshuis1_c.jpg" src_l="mauritshuis1.jpg" width="50%" height="auto" caption="Fassade des Mauritshuis bei Nacht" >}}
+{{< my-own-image-v1 src="mauritshuis1_c.jpg" src_l="mauritshuis1.jpg" max-height="40em" height="auto" caption="Fassade des Mauritshuis bei Nacht" >}}
 
-{{< my-own-image-v1 src="mauritshuis2_c.jpg" src_l="mauritshuis2.jpg" width="50%" height="auto" caption="Rembrandt van Rijn: Die Anatomie des Dr. Tulp" >}}
+{{< my-own-image-v1 src="mauritshuis2_c.jpg" src_l="mauritshuis2.jpg" max-height="40em" height="auto" caption="Rembrandt van Rijn: Die Anatomie des Dr. Tulp" >}}
 
-{{< my-own-image-v1 src="mauritshuis3_c.jpg" src_l="mauritshuis3.jpg" width="50%" height="auto" caption="Jan Vermeer: Das Mädchen mit dem Perlenohrgehänge" >}}
+{{< my-own-image-v1 src="mauritshuis3_c.jpg" src_l="mauritshuis3.jpg" max-height="40em" height="auto" caption="Jan Vermeer: Das Mädchen mit dem Perlenohrgehänge" >}}
 
-{{< my-own-image-v1 src="mauritshuis4_c.jpg" src_l="mauritshuis4.jpg" width="50%" height="auto" caption="Peter Paul Rubens: Alte Frau und Junge mit Kerze" >}}
+{{< my-own-image-v1 src="mauritshuis4_c.jpg" src_l="mauritshuis4.jpg" max-height="40em" height="auto" caption="Peter Paul Rubens: Alte Frau und Junge mit Kerze" >}}
 
 ### Escher in het Paleis
 Adresse: [Lange Voorhout 74, 2514 EH Den Haag](https://goo.gl/maps/SF5mjEenf9LVvkbH9)
@@ -66,7 +66,7 @@ Auch dem Escher-Museum habe ich einen Besuch im Rahmen der Museumsnacht gewidmet
 
 Das Museum selbst zeigt eine Vielzahl seiner Werke, allerdings mit überschaubarer Hintergrundinformation. Dies könnte auch darin begründet liegen, dass die Bilder häufig für sich selbst sprechen. Mein persönliches Interesse an dieser Kunstform ist allerdings nicht so groß, dass ich mir mehr als ein Dutzend dieser Werke ansehen würde. Das Museum ist nicht mit der Museumkaart zugänglich.
 
-{{< my-own-image-v1 src="escher2_c.jpg" src_l="escher2.jpg" width="50%" >}}
+{{< my-own-image-v1 src="escher2_c.jpg" src_l="escher2.jpg" max-height="40em" >}}
 
 ### Panorama Museum Mesdag
 Adresse: [Zeestraat 65, 2518 AA Den Haag](https://goo.gl/maps/6R2mSTkGXbHR4rW26)
@@ -84,9 +84,9 @@ Das Atlantikwall-Museum ist besonders interessant für jeden, der einen Einblick
 
 {{< my-own-image-v1 src="atlantikwall1_c.jpg" src_l="atlantikwall1.jpg">}}
 
-{{< my-own-image-v1 src="atlantikwall2_c.jpg" src_l="atlantikwall2.jpg" width="70%" >}}
+{{< my-own-image-v1 src="atlantikwall2_c.jpg" src_l="atlantikwall2.jpg" max-height="40em" >}}
 
-{{< my-own-image-v1 src="atlantikwall3_c.jpg" src_l="atlantikwall3.jpg" width="70%" >}}
+{{< my-own-image-v1 src="atlantikwall3_c.jpg" src_l="atlantikwall3.jpg" max-height="40em" >}}
 
 ## Leiden
 ### Rijksmuseum Boerhaave
@@ -105,14 +105,14 @@ Die Ausstellung alter und imposanter Gemälde wird ergänzt um Werke ganz andere
 
 {{< my-own-image-v1 src="lakenhal1_c.jpg" src_l="lakenhal1.jpg" caption="Sonderausstellung Imagine Intuition." >}}
 
-{{< my-own-image-v1 src="lakenhal3_c.jpg" src_l="lakenhal3.jpg" caption="Ausstellung zur Befreiung Leidens von der spanischen Belagerung am 3. Oktober 1574. Dieser Wendepunkt gilt gleichzeitig auch als Ausgangspunkt für die Gründung der Universität im Folgejahr." >}}
+{{< my-own-image-v1 src="lakenhal3_c.jpg" src_l="lakenhal3.jpg" caption="Ausstellung zur Befreiung Leidens von der spanischen Belagerung am 3. Oktober 1574. Dieser Wendepunkt gilt gleichzeitig auch als Ausgangspunkt für die Gründung der Universität im Folgejahr." max-height="80vh" >}}
 
 ### Rijksmuseum van Oudheden
 Adresse: [Rapenburg 28, 2311 EW Leiden](https://goo.gl/maps/TaHjb5kPWPoySVd48)
 
 Das Rijksmuseum van Oudheden in Leiden ist auch einen Besuch wert. Es handelt sich um das nationale archäologische Museum der Niederlande mit einem Fokus auf frühe Kulturen im angrenzenden Mittelmeerraum. Man sollte für einen Besuch einige Stunden einplanen, denn es beherbergt eine Fülle an Exponaten, von denen fast jedes interessant und sehenswert ist. Mit der kleinen Gruppe an Bekannten habe ich das Museum besichtigt und dabei ausschließlich die ägyptische Ausstellung im Erdgeschoss gesehen. Allein diese war für mich, der bisher keine alt-ägyptischen Mumien, Totengräber, Schriften oder Statuen gesehen hatte, sehr beeindruckend. Wie die meisten der hier vorgestellten Museen ist auch dieses modern renoviert und eine ausgezeichnete Lichtinstallation setzt im Zusammenspiel aus Licht und Schatten die Exponate eindrucksvoll in Szene. Wenn möglich, möchte ich gerne auch den anderen Ausstellungsbereichen einen Besuch abstatten. Für Studenten ist der Museumseintritt kostenfrei möglich.
 
-{{< my-own-image-v1 src="oudheden1_c.jpg" src_l="oudheden1.jpg" >}}
+{{< my-own-image-v1 src="oudheden1_c.jpg" src_l="oudheden1.jpg" max-height="80vh" >}}
 
 {{< my-own-image-v1 src="oudheden2_c.jpg" src_l="oudheden2.jpg" >}}
 
@@ -121,15 +121,33 @@ Das Rijksmuseum van Oudheden in Leiden ist auch einen Besuch wert. Es handelt si
 ### Naturalis
 Adresse: [Darwinweg 2, 2333 CR Leiden](https://goo.gl/maps/roAZ4e4F34mmiLpN8)
 
+Das Naturalis Biodiversity Center (kurz Naturalis) ist ein bedeutsames naturhistorisches Museum, das 2021 als das European Museum of the Year ausgezeichnet wurde. Mit 42 Millionen Objekten (Stand 2015) handelt es sich qua Umfang um eines der fünf wichtigsten Museen der Welt. Freilich ist der größte Teil davon nicht ausgestellt und wird für Forschung und Archivierung verwendet. Dementsprechend weckt das Museum, das sich in einem 2019 eröffneten monumentalen Neubau befindet, erhebliche Erwartungen.
+
+Diesen wird es leider nur bedingt gerecht. Die Ausstellung zeigt teils beeindruckende Exponate wie ein Skelett des *Tyrannosaurus rex* oder sehr viele (Urzeit-)Tiere. Leider mangelt es aber deutlich an Erklärungen zu den Ausstellungsstücken und in manchen Abteilungen fehlt mir ein roter Faden oder Zusammenhang zwischen Objekten einer Vitrine, so in der Ausstellung zum Tod. Das ist doch schade, wenn man sieht, welche Mittel dem Museum zur Verfügung stehen. In der jetzigen Konzeption empfehle ich das Museum so besonders für Familien mit Kindern, die sicher viel Spaß haben, an den ganzen ungewöhnlichen und unbekannten Tieren vorbeizulaufen.
+
 ### Molenmuseum de Valk
 Adresse: [2e Binnenvestgracht 1, 2312 BZ Leiden](https://goo.gl/maps/iTUf32kNhwViWzuE8)
+
+Das Molenmuseum zeigt die Geschichte der Windmühlen in den Niederlanden und ist selbst in einer solchen zu finden. Die Windmühle de Valk ist eine alte Kornmühle in Leiden, welche seit 1966 als Museum geöffnet ist. Man ist beim Betreten beeindruckt von den zahlreichen Stockwerken und der Größe des Bauwerks. Unten wohnte traditionell der Müller, sodass diese Wohnung auch typisch wie ein Heimatmuseum eingerichtet ist. Darüber kann man in den einzelnen Stockwerken verschiedene technische Geräte zum Mahlen besichtigen und von der Plattform, welche ursprünglich zum Einstellen und Bespannen der Mühlenflügel genutzt wurde, einen Ausblick auf Leiden werfen. Mir hat ein Film (sogar auf Deutsch verfügbar) gut gefallen, der die Geschichte der niederländischen Windmühlen mit allen Facetten ihrer Anwendungen kurz zusammenfasst und für mich Unkundigen eine Einführung in das Thema bietet. Dennoch hat man im Museum schnell alles gesehen und ich würde dieses eher als kleinen Abstecher empfehlen.
+
+{{< my-own-image-v1 src="devalk1_c.jpg" src_l="devalk1.jpg" max-height="50em" >}}
+
+{{< my-own-image-v1 src="devalk2_c.jpg" src_l="devalk2.jpg" >}}
 
 ## Amsterdam
 
 ### Stedelijk Museum
 Adresse: [Museumplein 10, 1071 DJ Amsterdam](https://goo.gl/maps/t3QFpEpPugCi5MB16)
 
-{{< image src="stedelijk1.jpg" src_l="stedelijk1.jpg" caption="Stedelijk Museum." width="40%" height="auto" >}}
+Das Stedelijk-Museum zeigt eine Vielzahl an Ausstellungen moderner und zeitgenössischer Kunst. Es gehört deshalb zu den bekanntesten Museen Amsterdams und ist mit Rijksmuseum, van Gogh-Museum und anderen Teil des Museumspleins. Der Besuch lohnt sich bei einem Interesse an diesen Kunstformen sehr -- auch aufgrund der Werke namhafter Künstler. Gestalterisch und informativ habe ich aber bereits innovativere Museen im Bereich moderne Kunst gesehen.
+
+{{< my-own-image-v1 src="stedelijk1_c.jpg" src_l="stedelijk1.jpg" caption="Design-Ausstellung im Stedelijk Museum." >}}
+
+{{< my-own-image-v1 src="stedelijk2_c.jpg" src_l="stedelijk2.jpg" caption="Kasimir Malewitsch: Ein Engländer in Moskau (1914)" max-height="40em" >}}
+
+{{< my-own-image-v1 src="stedelijk3_c.jpg" src_l="stedelijk3.jpg" caption="Max Beckmann: Doppelbildnis. Max und Mathilde Beckmann (1941)" max-height="40em" >}}
+
+{{< my-own-image-v1 src="stedelijk4_c.jpg" src_l="stedelijk4.jpg" >}}
 
 ### Koninklijk Paleis op de Dam
 Adresse: [Nieuwezijds Voorburgwal 147, 1012 RJ Amsterdam](https://goo.gl/maps/onDxnBssA2dtgPkeA)
