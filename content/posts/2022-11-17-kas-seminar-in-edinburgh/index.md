@@ -26,7 +26,7 @@ Edinburgh begrüßte mich nach 1:35&thinsp; h Flug mit einem typisch nebeligen E
 
 Anschließend lief ich zurück in die Stadt, denn ich verpasste den Bus weil ich an der falschen Straßenseite stand (sie halten logischerweise auch links). Die Altstadt besteht aus zahlreichen alten Gebäuden im ähnlichen Baustil -- es passt alles sehr schön zusammen. Die Stadt wirkt auch nochmal größer durch die hügelige Topographie. Jedenfalls verbrachte ich mehrere Stunden im schottischen Nationalmuseum (Royal Museum), das sehr groß ist und viele Abteilungen aufweist. Empfehlenswert auch der Blick von der Dachterrasse -- insbesondere ohne Wind und Regen.
 
-{{< image src="royal-museum_c.jpg" src_l="royal-museum.jpg" caption="Ein kleiner Ausschnitt des Royal Museums" >}}
+{{< my-own-image-v1 src="royal-museum_c.jpg" src_l="royal-museum.jpg" caption="Ein kleiner Ausschnitt des Royal Museums" max-height="80vh" >}}
 
 Am Abend kamen wir dann mit allen Teilnehmern des Seminars zusammen, lernten uns ein wenig kennen und begannen mit der inhaltlichen Vorbereitung auf das zu behandelnde Fachgebiet: Wo steht Schottland -- begreift es sich eher als ein Teil des Vereinigten Königreiches oder sind die Bestrebungen größer, sich davon loszusagen? Gibt es Perspektiven für ein unabhängiges Schottland in der Europäischen Union? Und wie ähnlich oder verschieden sind eigentlich Schotten und Engländer?
 
@@ -41,9 +41,9 @@ Nach den Vorträgen brachen wir zu einer Stadtbegehung auf, bei der uns ein Kons
 
 {{< image src="edinburgh_at_night_c.jpg" src_l="edinburgh_at_night.jpg" caption="Blick auf das nächtliche Edinburgh von Calton Hill aus." >}}
 
-{{< image src="st_giles_cathedral_c.jpg" src_l="st_giles_cathedral.jpg" caption="Im Innern der St Giles' Cathedral, welche den Hauptsitz der Church of Scotland darstellt." >}}
+{{< my-own-image-v1 src="st_giles_cathedral_c.jpg" src_l="st_giles_cathedral.jpg" caption="Im Innern der St Giles' Cathedral, welche den Hauptsitz der Church of Scotland darstellt." max-height="80vh" height="30em" >}}
 
-{{< image src="edinburgh_strassenzug_nachts_c.jpg" src_l="edinburgh_strassenzug_nachts.jpg" caption="Oberes Ende der Victoria Street mit alter Gebäudefassade." >}}
+{{< my-own-image-v1 src="edinburgh_strassenzug_nachts_c.jpg" src_l="edinburgh_strassenzug_nachts.jpg" caption="Oberes Ende der Victoria Street mit alter Gebäudefassade." max-height="80vh" >}}
 
 ## Tag 3: Das schottische Parlament und weitere Stadtbesichtigung
 Samstags ging es mit einer Führung im schottischen Parlament los. Dieses gibt es erst seit 1999 als Ergebnis aufstrebender Unabhängigkeitstendenzen. Nach einer theoretischen Einführung in die Geschichte Schottlands (die sich teilweise mit dem bereits Gelernten überschnitt) zeigte unsere Führerin uns das Gebäude und vor allem den Parlamentssaal. Dieser ist verglichen mit dem Bundestag deutlich kleiner und in moderner Holzoptik gehalten. Wäre der Teppichboden nicht in einem verwirrenden Muster gestaltet, fühlte man sich gestalterisch mehr an ein Wohnzimmer denn ein Arbeitsgebäude erinnert. Auch hier wirkt der Reichstag mit seinen nüchternen, grau-betonten Farben, anders auf die Besucher. À propos, für diese gab es nach meiner subjektiven Einschätzung deutlich mehr Plätze, vor allem auch relativ zur Anzahl der Abgeordnetensitze.
@@ -66,11 +66,11 @@ Nach der Führung im Parlament spazierte ich mit einer kleinen Gruppe an Teilneh
 - Mushroom
 - Toast & Butter
 
-{{< image src="scottish_breakfast_e_c.jpg" src_l="scottish_breakfast_e.jpg" caption="Schottisches Frühstück im [Café Keno](https://cafekeno.com/)." >}}
+{{< my-own-image-v1 src="scottish_breakfast_e_c.jpg" src_l="scottish_breakfast_e.jpg" caption="Schottisches Frühstück im [Café Keno](https://cafekeno.com/)." height="40em" >}}
 
 Auch wenn ich normal ein ganz klassisches, zuweilen langweiliges &raquo;deutsches Frühstück&laquo; mit Brot, Brötchen, Marmelade und Honig mag, hat mir dieses Frühstück zur lunch time sehr gut geschmeckt und kräftig Energie für den Tag gegeben. Ich bin mit ein paar anderen durch die Stadt spaziert, habe mir einen schönen Schal gekauft und bisschen gestöbert. Anschließend ging es weiter mit unserem Tagungsprogramm und einer philosophischen Diskussion, unter welchen Voraussetzungen Abspaltungen als legitim gelten sollten. Diese Frage ist wissenschaftlich gesehen nämlich gar nicht so einfach zu beantworten und von zahlreichen Grenzfällen geprägt.
 
-{{< image src="edinburgh_blick_auf_burg_c.jpg" src_l="edinburgh_blick_auf_burg.jpg" height="100%;" >}}
+{{< my-own-image-v1 src="edinburgh_blick_auf_burg_c.jpg" src_l="edinburgh_blick_auf_burg.jpg" max-height="80vh" >}}
 
 Nach einem Abendessen beim Italiener mit köstlichem Wein ließen wir unseren letzten Abend erneut in verschiedenen Pubs ausklingen. Ich glaube hier lernt man die schottische Seele immer noch am besten kennen und sie kommt nach ein paar Bier gleich viel geschmeidiger daher.
 
