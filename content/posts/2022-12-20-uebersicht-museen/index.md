@@ -139,7 +139,7 @@ Das Molenmuseum zeigt die Geschichte der Windmühlen in den Niederlanden und ist
 ### Stedelijk Museum
 Adresse: [Museumplein 10, 1071 DJ Amsterdam](https://goo.gl/maps/t3QFpEpPugCi5MB16)
 
-Das Stedelijk-Museum zeigt eine Vielzahl an Ausstellungen moderner und zeitgenössischer Kunst. Es gehört deshalb zu den bekanntesten Museen Amsterdams und ist mit Rijksmuseum, van Gogh-Museum und anderen Teil des Museumspleins. Der Besuch lohnt sich bei einem Interesse an diesen Kunstformen sehr -- auch aufgrund der Werke namhafter Künstler. Gestalterisch und informativ habe ich aber bereits innovativere Museen im Bereich moderne Kunst gesehen.
+Das Stedelijk-Museum zeigt eine Vielzahl an Ausstellungen moderner und zeitgenössischer Kunst. Es gehört deshalb zu den bekanntesten Museen Amsterdams und ist mit Rijksmuseum, van Gogh-Museum und weiteren Teil des Museumspleins. Der Besuch lohnt sich bei einem Interesse an diesen Kunstformen sehr -- auch aufgrund der Werke namhafter Künstler. Gestalterisch und informativ habe ich aber bereits innovativere Museen im Bereich moderne Kunst gesehen.
 
 {{< my-own-image-v1 src="stedelijk1_c.jpg" src_l="stedelijk1.jpg" caption="Design-Ausstellung im Stedelijk Museum." >}}
 
@@ -152,11 +152,46 @@ Das Stedelijk-Museum zeigt eine Vielzahl an Ausstellungen moderner und zeitgenö
 ### Koninklijk Paleis op de Dam
 Adresse: [Nieuwezijds Voorburgwal 147, 1012 RJ Amsterdam](https://goo.gl/maps/onDxnBssA2dtgPkeA)
 
+Der Königspalast liegt in zentraler Lage in Amsterdam und dient als Empfangsgebäude für Staatsgäste der Königsfamilie. Deshalb ist auch das Museum manchmal kurzfristig geschlossen, wenn es für anderweitige Veranstaltungen benötigt wird. Der Palast besteht aus zahlreichen, prunkvoll dekorierten und ausgestatteten Zimmern -- eben so, wie man sich einen königlichen Palast vorstellt. :crown:
+
+Als Besucher erhält man einen Audioguide, der über die historischen Begebenheiten und Details des Palastes aufklärt und dabei auch nicht an Anekdoten spart. Mir persönlich war die einstündige Führung etwas langatmig, vielleicht auch, weil ich nicht besonders an Geschichten über Royals interessiert bin. Ich würde sagen, es kann interessant sein sich mal einen Eindruck von dem Palast zu verschaffen, aber für die breite Masse ist der Palast auch nicht großartig anders als Paläste die ich andernorts bereits besichtigt habe.
+
+{{< my-own-image-v1 src="palast1_c.jpg" src_l="palast1.jpg" height="40em" max-height="70vh" >}}
+
+{{< my-own-image-v1 src="palast2_e_c.jpg" src_l="palast2_e.jpg" height="40em" max-height="80vh" >}}
+
 ### ARTIS -- Micropia
 Adresse: [Plantage Kerklaan 38-40, 1018 CZ Amsterdam](https://goo.gl/maps/DKc9CAcjrXwcvirD9)
 
+Das Micropia Museum wurde mir von Freunden empfohlen und ich kann diese Empfehlung nur weitergeben. Es ist Teil des ARTIS Zoos und besetzt eine Nische zwischen klassischen Museen und Zoos. Im Micropia lernt man unglaublich viel über Mikroorganismen wie Viren oder Bakterien, ihre Entstehung, Entwicklung und große Anpassungsfähigkeit. Spätestens seit Ausbruch der Corona-Pandemie im Jahr 2020 ist uns vor Augen geführt worden, welche Gefahren von Viren ausgehen. Welche vielfältigen, positiven Anwendungen diese aber auch haben können lernt man beim Besuch des Micropia.
+
+Das Museum ist sehr interaktiv gestaltet, da man hier mehrere hundert Lebendkulturen beobachten kann. Hierzu sind allerlei moderne Mikroskopie und anderweitige Apparate vorhanden. Erklärtexte, Videos und interaktive Elemente runden das Erlebnis ab und ergänzen sich gut. Aus meiner Sicht ist das Museum insbesondere auch für Kinder konzipiert und erzählt diesen eine Wissenschaftsgeschichte während des Rundgangs. Dieser ist wohlstrukturiert, sodass auch Erwachsene und Studenten ihre Freude haben und inhaltlich eine gewisse Tiefe erwarten dürfen. Besonders gut gefallen mir die Lichtgestaltung und die positive Botschaft, die über die Winzlinge erzählt wird.
+
+{{< my-own-image-v1 src="micropia_c.jpg" src_l="micropia.jpg" height="40em" max-height="80vh" >}}
+
 ### Hash Marihuana & Hemp Museum
 Adresse: [Oudezijds Achterburgwal 148, 1012 DV Amsterdam](https://goo.gl/maps/rbp9Ne7c9pinERTi9)
+
+Ein Cannabis-Museum? :dizzy_face: Ein Cannabis-Museum in Amsterdam: :cowboy_hat_face:! Welch einen besseren Ort gibt es um ein Museum über die Cannabispflanze und ihre Erzeugnisse Haschisch, Marihuana und Hanf zu eröffnen? Amsterdam ist weit über die niederländischen Grenzen für seine liberale Drogenpolitik bekannt und kann sicherlich als Hauptstadt des Drogentourismus gelten. Wer durch die Straßen spaziert, bewegt sich hier mehr als anderswo in den Niederlanden durch eine nach Gras riechende Dunstwolke. Für den einen ist dies die gelebte Freiheit und Muster für ein Deutschland mit legal zu erwerbendem Cannabis, für viele (und insbesondere Einheimische) wird dies aber zunehmend zum Ärgernis.
+
+{{< my-own-image-v1 src="hash1_c.jpg" src_l="hash1.jpg" height="50em" max-height="80vh" caption="Eingangsportal des &raquo;Hash Marihuana & Hemp Mueseums&laquo;." >}}
+
+Nun aber zum Museum: Dieses ist privat betrieben und daher gibt es keine Ermäßigung mit der Museumkaart, sondern man muss den hohen Preis von 9&thinsp;€ bezahlen. Da der Gründer Ben Dronkers sich seit der Eröffnung 1985 für die Verwendung und Legalisierung von Cannabis einsetzt, ist das Museum naturgemäß nicht politisch neutral. Dies merkt der Besucher spätestens, wenn er nach dem Besuch nicht nur durch einen Museumsshop, sondern auch durch die Filiale der Firma Sensi Seeds des Museumsgründers den Ausgang findet. Dort werden wie in einem Delikatessenladen zahlreiche Cannabissamen inklusive einiger Eigenzüchtungen verkauft und in einem großen, bebilderten Katalog ausführlich verglichen.
+
+{{< my-own-image-v1 src="hash2_c.jpg" src_l="hash2.jpg" caption="Aufklärungstafel zur Drogenprävention." >}}
+
+Neben diesen eher ungewöhnlichen Besonderheiten möchte ich aber auch ein paar Worte zum Museum selbst verlieren. Die Geschichte beginnt mit der Erklärung von botanischen Eigenschaften der Cannabis-Pflanze, ihren Ursprüngen und ihrer vielfältigen Nutzung. Demnach begann die Verbreitung hierzulande nach den Feldzügen Napoleons durch heimkehrende Soldaten. Früher wurde Cannabis als Hanf und damit als Werkstoff genutzt, aber auch von der Landbevölkerung als Haschisch konsumiert.
+Dann informiert das Museum ausführlich über die beginnende Kriminalisierung, die Tricks um Haschisch zu verstecken und die Rolle in der aufkommenden Popmusik. Es wird die Behauptung aufgestellt, dass durch eine Legalisierung des Cannabis-Konsums der Konsumentenpreis in Amsterdam halbiert werden könnte und dabei in Form eines Fair Trade-Konzeptes Geld in Infrastruktur in den Anbauländern investiert würde statt von kriminellen Zwischenhändlern verdient zu werden.
+
+{{< my-own-image-v1 src="hash3_c.jpg" src_l="hash3.jpg" height="50em" max-height="80vh" caption="Cannabispflanzen in Reinkultur: Hier die Variante &raquo;LockDown Kush&laquo;." >}}
+
+Dann betritt der Besucher einen kleinen Raum, in dem mehrere echte Cannabispflanzen und Neuzüchtungen präsentiert werden. Diese sind wegen des Geruches hinter einer Glaswand mit Lüftungsanlage. Daneben stehen zahlreiche medizinische Cannabis-Präparate (auch aus Deutschland), die ca. 100 Jahre alt sein könnten. Abschließend verlässt der Besucher das kleine Museum durch den Sensi Seeds Shop. Da es in einem schönen historischen Gebäude untergebracht ist, liegt das ganz moderne Hanf-Museum wenige Schritte entfernt in einem Nachbargebäude. Es ist mit der selben Eintrittskarte zugänglich.
+
+{{< my-own-image-v1 src="hash4_c.jpg" src_l="hash4.jpg" caption="Traditionelle Nutzungsformen von Hanf." >}}
+
+Das Hanf-Museum hat mir sehr gut gefallen, fokussiert es sich doch ganz auf technische Anwendungen des Hanf-Rohstoffes. Dabei wird festgehalten, dass Hanf nur unmerklich THC enthält und damit keine berauschende Wirkung erzielt werden kann. Vielmehr eignet es sich als nachhaltiges, sehr stabiles Material, aus dem sogar ganze Motorräder gebaut werden können und das eine Rolle in einer erdölfreien Zukunft spielen könnte.
+
+{{< my-own-image-v1 src="hash5_c.jpg" src_l="hash5.jpg" caption="Neue innovative Hanfmaterialien." >}}
 
 ### Forteiland Pampus
 Adresse: [Fort Pampus 1, 1398 VE Muiden, Niederlande](https://goo.gl/maps/FfNpPu6HgvYggFtZ7)
