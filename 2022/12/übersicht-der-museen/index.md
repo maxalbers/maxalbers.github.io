@@ -185,6 +185,26 @@ Das Hanf-Museum hat mir sehr gut gefallen, fokussiert es sich doch ganz auf tech
 ### Forteiland Pampus
 Adresse: [Fort Pampus 1, 1398 VE Muiden, Niederlande](https://goo.gl/maps/FfNpPu6HgvYggFtZ7)
 
+Der Ausflug zur Insel &raquo;Pampus&laquo; ist ein einmaliges Erlebnis, das man sich in den Sommermonaten nicht entgehen lassen sollte. Die Insel liegt in der Nähe von Amsterdam im IJmeer, der südlichsten Bucht des IJsselmeers. Sie wurde Ende des 19. Jahrhunderts künstlich auf einer Untiefe aufgeschüttet, um Teil der Verteidigungslinie Stelling van Amsterdam zu sein und die Stadt vor Angriffen über See zu schützen.
+
+Die Anfahrt ist etwas kompliziert und erfolgt von verschiedenen Orten mit einem Fährboot, das tagsüber regelmäßig verkehrt. Es gibt mehrere Routen, aber ich wählte die über Muiden (Preis knapp 10€, Museum mit Museumkaart kostenfrei). Dieses beschauliche Dorf erreicht man wiederum nur umständlich mit dem OV, weshalb ich nach Weesp fuhr und mir ein Mietfahrrad (OV-Fiets der NS, erhältlich für Abonnementinhaber) für die Fahrt zur Fähre besorgte.
+
+{{< my-own-image-v1 src="pampus1_c.jpg" src_l="pampus1.jpg" height="50em" max-height="80vh" caption="Die Anfahrt mit dem Boot &ndash; strahlende Sonne im November." >}}
+
+Mein Besuch fand Mitte November und damit gegen Ende der Saison statt. Dennoch bestand großer Andrang auf der Fähre, erahnend den Ansturm den diese Insel im Hochsommer erwarten dürfte. Die Überfahrt ist nach ca. 20 Minuten vorüber. Angekommen begrüßt einen das Inselrestaurant und Café, aber direkt dahinter beginnt bereits das historische Fort. Es handelt sich um eine große Bunkeranlage, in deren zahlreichen Gängen man sich rasch verlieren könnte. Was ein Glück, dass der Ausgang bei einer Inselfläche von 0.03&nbsp;km&sup2; nie weit ist. :rofl:
+
+{{< my-own-image-v1 src="pampus2_c.jpg" src_l="pampus2.jpg" >}}
+
+Die Fortanlage wurde ursprünglich als Fort mit klassischen Kanonen errichtet, wurde wenig genutzt und dann von den Nationalsozialisten während des Zweiten Weltkrieges besetzt. Diese versuchten, die Insel zur Flugabwehr zu nutzen, gaben aber rasch auf und sprengten einen Großteil der vorhandenen Militärtechnik. Nach dem Krieg lag die Insel lange brach und verfiel, bis sie Studenten während der Studentenproteste für sich entdeckten. Schließlich wurde die Insel als Museum hergerichtet und sicherlich auch unter Einsatz zahlreicher Mittel aus dem UNESCO-Weltkulturerbe Fonds präsentiert sie sich heute modern und vielseitig.
+
+{{< my-own-image-v1 src="pampus3_c.jpg" src_l="pampus3.jpg" height="40em" max-height="70vh" caption="Abstieg in den Bunker." >}}
+
+{{< my-own-image-v1 src="pampus4_c.jpg" src_l="pampus4.jpg" height="40em" max-height="70vh" caption="Ein altes Geschütz." >}}
+
+Dazu gehört nicht nur eine interaktive und moderne Gestaltung der Forträume, die auch Kinder ansprechen dürfte. Sondern auch eine energetische Eigenversorgung der Insel mit Nachhaltigkeitskonzept, die Ausrichtung von Events oder die Möglichkeit zur Zeltübernachtung. Bei der Besichtigung weisen zwei vorgezeichnete Routen zu themenbezogenen Wegen. Unterstützend sollen auch Audioguides die Geschichte erklären, allerdings funktionierte meiner irgendwie nicht. Grundsätzlich sehr interessant sind auch die kostenfreien Führungen engagierter Guides, welche aber während meines Besuches nur auf Niederländisch angeboten wurden. Ganz allgemein sind für den Besuch ein paar Brocken Niederländisch sicher hilfreich, da ich an diesem Tag der einzige ausländische Besucher war und auch viele Schilder auf niederländisch waren.
+
+{{< my-own-image-v1 src="pampus5_c.jpg" src_l="pampus5.jpg" caption="Auf der Rückfahrt erhält man einen einmaligen Blick auf das Muiderslot, ein Wasserschloss mit Ursprüngen im 13. Jahrhundert." >}}
+
 ## Rotterdam
 ### Witte de With -- Kunstinstituut Melly
 Adresse: [Witte de Withstraat 50, 3012 BR Rotterdam](https://goo.gl/maps/k2SPdKvcuJvMWD6WA)
