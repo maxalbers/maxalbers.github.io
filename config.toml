@@ -497,8 +497,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       images = []
       # Publisher info
       [params.page.seo.publisher]
-        name = ""
-        logoUrl = ""
+        name = "Max Albers"
+        logoUrl = "/logo.png"
 
   #  TypeIt config
   [params.typeit]
