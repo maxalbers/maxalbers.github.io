@@ -220,6 +220,16 @@ Dazu gehört nicht nur eine interaktive und moderne Gestaltung der Forträume, d
 ### Witte de With -- Kunstinstituut Melly
 Adresse: [Witte de Withstraat 50, 3012 BR Rotterdam](https://goo.gl/maps/k2SPdKvcuJvMWD6WA)
 
+Ein Besuch im Kunstinstituut Melly ist sehr empfehlenswert und tiefgründig. Das Museum wird häufig als Museum zeitgenössischer Kunst beschrieben, aber dies trifft nur teilweise zu: Vielmehr findet man hier Ausstellungen von größtenteils unbekannten Künstlerinnen und Künstlern der Gegenwart, die in einer permanenten Ausstellung und wechselnden Sonderausstellungen ihre Sicht auf die Dinge präsentieren. Die Hauptausstellung hat man auch schnell gesehen, weil die Räume sehr weiträumig gehalten sind und es nicht viele Exponate gibt. Diese erzählen Geschichten von Krieg, Revolution, Menschenrechten und der Emanzipation von Frauen. Insbesondere weiblichen Künstlern wird hier meinem Eindruck nach besonders Gehör verschafft. Das Ganze ist natürlich hochgradig politisch und zum Teil auch provozierend. Künstlerisch vielleicht etwas einfach gehalten.
+
+Aus selbem Holz ist auch die Sonderausstellung im [TENT](https://www.tentrotterdam.nl/en/tentoonstelling/traveling-without-moving/) geschnitzt, welche zur Zeit meines Besuches im Oktober 2022 zu besichtigen war und für meine Bewertung maßgeblich ist. Sie trägt den Namen "[Travelling without moving](https://bvds.nl/en/production/traveling-without-moving-2/exhibition-tent/)" und entstammt einem Konzept der Künstlerinnen Suzan Boogaerdt und Bianca van der Schoot, welche nach eigener Beschreibung aus einem anarchistischen Umfeld stammen. Die Ausstellung nimmt den Besucher mit auf eine Reise in eine abstrakte, radikal-feministische Gedankenwelt, um soziale Missstände der Gegenwart zu überwinden.
+
+{{< my-own-image-v1 src="melly1_c.jpg" src_l="melly1.jpg" >}}
+
+So mit meinen Worten geschrieben, mag mein Interesse für diese Ausstellung vielleicht den ein oder anderen Leser verwundern. Und auch die Exponate bieten je nach Betrachtungsweise allerlei politischen und gesellschaftlichen Sprengstoff. Zum Beispiel, weil hier religiöse Riten zelebriert werden, bei denen man zwischen Skepsis und Gelächter schwankt. Dennoch halte ich die Ausstellung für sehr gelungen, weil sie ein immersives Erlebnis bietet, unglaublich detailverliebt gestaltet und multimedial unterstützt ist. Ich habe selten ein Museum besucht, das mich emotional so mitgenommen und teilweise sogar verängstigt hat. Die Sonderausstellung verfolgt eine klare Struktur und man taucht ganz sicher in eine andere Welt ein -- ob sie einem gefällt, ist zum Glück jedem selbst überlassen. Aber ich weiß Kunst die zum Nachdenken anregt und etablierte Muster durchbricht besonders zu schätzen und werde mir deshalb die Kataloge zukünftiger Ausstellungen im Kunstinstituut mit Interesse ansehen.
+
+{{< my-own-image-v1 src="melly2_c.jpg" src_l="melly2.jpg" max-height="80vh" >}}
+
 ## Eindhoven
 ### Philips Museum
 Adresse: [Emmasingel 31, 5611 AZ Eindhoven](https://goo.gl/maps/Ndz7bWwbtX6AqVgq6)
