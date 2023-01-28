@@ -233,3 +233,11 @@ So mit meinen Worten geschrieben, mag mein Interesse für diese Ausstellung viel
 ## Eindhoven
 ### Philips Museum
 Adresse: [Emmasingel 31, 5611 AZ Eindhoven](https://goo.gl/maps/Ndz7bWwbtX6AqVgq6)
+
+Eindhoven ist die &raquo;Philips-Stadt&laquo;. Hier wurde die Firma, welche mit Glühlampen :bulb: startete und zum breit aufgestellten Industrieunternehmen wurde, im Jahr 1891 gegründet. Das Museum ist nicht besonders groß, aber vielfältig gestaltet und bietet einen Einblick in die Firmengeschichte mit den Meilensteinen der Produktentwicklungen. Ich glaube es ist das einzige Technikmuseum, was ich während meines Aufenthaltes besucht habe. Aber ich wollte unbedingt auch einen Eindruck von einem der bekanntesten niederländischen Unternehmen gewinnen. Und ja, erst vor Ort wird einem bewusst, wie vielfältig die Produktsparten des Unternehmens sind und wie es sich auch traditionell von anderen abhebt: Hier sollen Produkte für Massen hergestellt werden, erschwinglich und dennoch innovativ und zukunftsweisend. :sparkles:.
+
+{{< my-own-image-v1 src="philips1_c.jpg" src_l="philips1.jpg" >}}
+
+Leider fehlte es aber zuweilen an genaueren Erklärungen und vor allem an Selbstkritik. Kann man vielleicht auch nicht verlangen, aber das hat den Eindruck etwas geschmälert. Ich würde sagen ein Besuch lohnt sich auf jeden Fall, wenn man in Noord-Brabant unterwegs ist und Eindhoven einen Besuch abstatten möchte. Oder man ist Fan des Fußballclubs PSV Eindhoven -- dieser ehemaligen Werkself wird auch eine eigene Ausstellung gewidmet :soccer:
+
+{{< my-own-image-v1 src="philips2_c.jpg" src_l="philips2.jpg" max-height="50vh" caption="Dire Straits mit ihrem Klassiker &raquo;Money for Nothing&laquo; auf CD 😍">}}
