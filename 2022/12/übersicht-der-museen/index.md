@@ -4,8 +4,11 @@
 ## Einleitung
 Nachdem ich zunächst überlegt hatte, die Ausflüge chronologisch zu dokumentieren, gebe ich hier nun eine sortierte Auflistung an mit einer kleinen Bewertung der Museen. Die Zeit hier in den Niederlanden vergeht einfach so schnell und das Verfassen eines vollständigen Ausflugsberichtes dauert mehrere Stunden, die ich dann doch lieber für andere Dinge verwendet habe. :smirk: Dennoch habe viele schöne Erinnerungen an dieses und jenes Museum und möchte für mögliche zukünftige Besuche meinerseits oder den interessierten Besucher dieses Blogs andererseits ein paar Empfehlungen festhalten. :relaxed:
 
-{{< admonition note "Eintrag im Aufbau" >}}
-Diese Übersicht ist noch im Aufbau. Ich habe bereits alle besuchten Museen angelegt, aber die Beschreibungen folgen noch :smiley:
+{{< admonition tip "Museumkaart – Alle Museen mit einer Karte" >}}
+Gleich zu Beginn meines Aufenthaltes habe ich mir eine [Museumkaart](https://museumkaart.nl/) bestellt, welche ich jedem Museumsliebhaber nur ans Herz legen kann. Zu einem Preis von knapp **65&nbsp;€** erhält man Zugang zu über 450 Museen -- jederzeit und so häufig man möchte. Nach meiner Erfahrung sind dies alle staatlichen Museen und darüber hinaus einige weitere. Auch bekannte Namen wie das Rijksmuseum in Amsterdam sind dabei.
+Die Karte kann man mit einem Wohnsitz in den Niederlanden bestellen, sie ist personengebunden und läuft ein Jahr ab Ausstellung. Angesichts der häufig hohen Eintrittspreise von ca. 20&nbsp;€ pro Museum lohnt sich die Karte sehr schnell.
+
+Am einfachsten kauft man sie in einem [dieser](https://www.museum.nl/nl/zien-en-doen/musea?mv-Facilities=SellsMuseumCard&mv-PageIndex=0) Museen vor Ort und legt dann mit einer vorläufigen Karte direkt los. Dann spart man sich mögliche Schwierigkeiten ohne niederländische IBAN (ich weiß nicht ob es solche gibt) und gegebenenfalls längere Postlaufzeiten.
 {{< /admonition >}}
 
 ## Übersicht
