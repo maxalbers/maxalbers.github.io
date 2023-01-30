@@ -1,3 +1,4 @@
 *.xcf
 .local/
 public/
+resources/_gen/
