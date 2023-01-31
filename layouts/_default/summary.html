@@ -4,9 +4,11 @@
     {{- /* Featured image */ -}}
     {{- $image := $params.featuredimagepreview | default $params.featuredimage -}}
     {{- with .Resources.GetMatch "featured-image" -}}
-        {{- $image = .RelPermalink -}}
+        {{- $image = . -}}
     {{- end -}}
-    {{- $image = .Resources.GetMatch "featured-image-preview" -}}
+    {{- with .Resources.GetMatch "featured-image-preview" -}}
+        {{- $image = . -}}
+    {{- end -}}
     {{- $rot := "" -}} <!-- don't rotate by default -->
     {{- with $image -}}
       {{- with .Exif -}}
