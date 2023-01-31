@@ -6,6 +6,9 @@ theme = "LoveIt"
 # website title
 title = "Max Albers"
 
+# M.A.: Image processing, default 30s
+timeout = "120s"
+
 defaultContentLanguage = "de"
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "de"

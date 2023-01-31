@@ -1,0 +1,36 @@
+<!--
+CHANGELOG
+V 2 => Add automatic image compression, remove src_s and src_l
+    => Remove "alt" param: use filename without path as default (instead of full relative path)
+-->
+
+{{- $options := cond .IsNamedParams (.Get "src") (.Get 0) | dict "Src" -}}
+{{- $caption := cond .IsNamedParams (.Get "caption") (.Get 2) | .Page.RenderString -}}
+{{- $options = dict "Caption" $caption | merge $options -}}
+
+{{- if .IsNamedParams -}}
+    {{- $options = dict "Title" (.Get "title") | merge $options -}}
+    {{- $options = dict "Height" (.Get "height") | merge $options -}}
+    {{- $options = dict "Width" (.Get "width") | merge $options -}}
+    {{- $options = dict "MaxHeight" (.Get "max-height") | merge $options -}}
+    {{- $options = dict "MaxWidth" (.Get "max-width") | merge $options -}}
+    {{- $options = .Get "linked" | ne false | dict "Linked" | merge $options -}}
+    {{- $options = dict "Rel" (.Get "rel") | merge $options -}}
+{{- else -}}
+    {{- $options = cond $caption true false | dict "Linked" | merge $options -}}
+{{- end -}}
+
+{{- $options = dict "Resources" .Page.Resources | merge $options -}}
+
+{{- if $caption -}}
+    <figure{{ with cond $.IsNamedParams ($.Get "class") "" }} class="{{ . }}"{{ end }}>
+        {{- partial "plugin/my-own-img-v2.html" $options -}}
+        <figcaption class="image-caption">
+          {{- with $caption -}}
+            {{- . | safeHTML -}}
+          {{- end -}}
+        </figcaption>
+    </figure>
+{{- else -}}
+      {{- partial "plugin/my-own-img-v2.html" $options -}}
+{{- end -}}

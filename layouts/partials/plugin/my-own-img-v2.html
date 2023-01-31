@@ -1,0 +1,63 @@
+<!--
+CHANGELOG
+V 2 => Add automatic image compression, remove src_s and src_l
+    => Remove "alt" param: use filename without path as default (instead of full relative path)
+-->
+
+{{- /* lazysizes and lightgallery */ -}}
+{{- $width := .Width -}}
+{{- $height := .Height -}}
+{{- $maxwidth := .MaxWidth -}}
+{{- $maxheight := .MaxHeight -}}
+
+{{- $src := .Src -}} <!-- original image -->
+{{- $image := .Resources.GetMatch $src -}}
+{{- $rot := "" -}} <!-- don't rotate by default -->
+{{- with $image.Exif -}}
+  {{- $orientation := .Tags.Orientation -}}
+  {{- if eq $orientation 3 -}}
+      {{- $rot = "r180" -}}
+  {{ else if (eq $orientation 6) }}
+      {{- $rot = "r270" -}}
+  {{ else if (eq $orientation 8) }}
+      {{- $rot = "r90" -}}
+  {{ end }}
+{{- end -}}
+
+{{- $src1500 := (printf "1500x %s" $rot | $image.Resize).RelPermalink -}}
+{{- $src1100 := (printf "1100x %s" $rot | $image.Resize).RelPermalink -}}
+{{- $src900 := (printf "900x %s" $rot | $image.Resize).RelPermalink -}}
+{{- $src600 := (printf "600x %s" $rot | $image.Resize).RelPermalink -}}
+{{- $src400 := (printf "400x %s" $rot | $image.Resize).RelPermalink -}}
+{{- $src100 := (printf "100x %s" $rot | $image.Resize).RelPermalink -}}
+
+{{- $alt := $image.Name -}}
+{{- $loading := resources.Get "svg/loading.svg" | minify -}}
+{{- if .Linked -}}
+    <a class="lightgallery" href="{{ $src | safeURL }}" title="{{ .Title | default $alt }}" data-thumbnail="{{ $src100 | safeURL }}"{{ with .Caption }} data-sub-html="<h2>{{ . }}</h2>{{ with $.Title }}<p>{{ . }}</p>{{ end }}"{{ end }}{{ with .Rel }} rel="{{ . }}"{{ end }}>
+        <img
+            class="lazyload{{ with .Class }} {{ . }}{{ end }}"
+            data-srcset="{{ $src100 | safeURL }} 100w, {{ $src400 | safeURL }} 400w, {{ $src600 | safeURL }} 600w, {{ $src900 | safeURL }} 900w, {{ $src1100 | safeURL }} 1100w, {{ $src1500 | safeURL }} 1500w"
+            data-sizes="(max-width: 800px) 100vw, (max-width: 1400px) 60vw, 50vw"
+            data-src="{{ $src600 | safeURL }}"
+            src="{{ $loading.RelPermalink }}"
+            alt="{{ $alt }}"
+            style="margin: .5rem; display: block; margin-left: auto; margin-right: auto; {{ if or ($width) ($height) }} width: {{ $width | default "auto" }}; height: {{ $height | default "auto" }};{{ end }}
+            {{- with $maxwidth -}} max-width: {{ . }}; {{- end -}}
+            {{- with $maxheight -}} max-height: {{ . }}; {{- end -}}
+            " />
+    </a>
+{{- else -}}
+    <img
+        class="lazyload{{ with .Class }} {{ . }}{{ end }}"
+        data-srcset="{{ $src100 | safeURL }} 100w, {{ $src400 | safeURL }} 400w, {{ $src600 | safeURL }} 600w, {{ $src900 | safeURL }} 900w, {{ $src1100 | safeURL }} 1100w, {{ $src1500 | safeURL }} 1500w"
+        data-sizes="(max-width: 800px) 100vw, (max-width: 1400px) 60vw, 50vw"
+        data-src="{{ $src600 | safeURL }}"
+        src="{{ $loading.RelPermalink }}"
+        alt="{{ $alt }}"
+        title="{{ .Title | default $alt }}"
+        style="margin: .5rem; display: block; margin-left: auto; margin-right: auto; {{ if or ($width) ($height) }} width: {{ $width | default "auto" }}; height: {{ $height | default "auto" }};{{ end }}
+        {{- with $maxwidth -}} max-width: {{ . }}; {{- end -}}
+        {{- with $maxheight -}} max-height: {{ . }}; {{- end -}}
+        " />
+{{- end -}}
