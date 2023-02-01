@@ -29,7 +29,7 @@ Die OWL war tatsächlich super organisiert! Für diese können sich alle anmelde
 Leiden ist eine alte niederländische Studentenstadt, die ein typisches holländisches Idyll vermittelt und mit der ältesten Universität der Niederlande eine deutliche studentische Prägung hat. Die Universität Leiden wurde im Jahr 1575 gegründet als protestantische Universität zur Sicherung der Unabhängigkeit nach Vertreibung der spanischen Invasoren im Jahr zuvor. Traditionell studieren hier bis heute die Mitglieder der Königsfamilie und auch bedeutende Personen wie der Künstler Rembrandt, der Physiker Albert Einstein und zahlreiche andere Wissenschaftler haben eine Verbindung zu Stadt oder Universität.
 {{< my-own-image-v2 src="leiden_rijn.jpg" caption="Der Rijn in Leiden." width="100%" height="auto" >}}
 
-{{< my-own-image-v2 src="rembrandt_portraet.jpg" caption="Auf dem Spaziergang durch Leiden: Rembrandt wird porträtiert.">}}
+{{< my-own-image-v2 src="rembrandt_portraet.jpg" max-height="80vh" caption="Auf dem Spaziergang durch Leiden: Rembrandt wird porträtiert.">}}
 
 Architektonisch fallen mir die vielen kleinen Gassen, die zahlreichen Grachten und die liebevoll restaurierten kleinen Häuser auf. Die Stadt bietet mit über 300 Bars unzählige Gelegenheiten zu verweilen und auch die Bewohner setzen sich häufig auf kleine Holzbänke oder Tische vor dem Haus, um den Feierabend zu genießen oder sich in großer Rund zum Abendessen auf der Straße zu treffen. Zum Stadtbild gehören ebenso die vielen Fahrräder und kleinen Boote in der Gracht.
 {{< my-own-image-v2 src="leiden_klappbare_bruecke.jpg" caption="Eine der zahlreichen historischen Klappbrücken in Leiden." width="100%" height="auto" >}}
@@ -37,10 +37,10 @@ Architektonisch fallen mir die vielen kleinen Gassen, die zahlreichen Grachten u
 ### Annie's Restaurant und Bar: Direkt an der Gracht sitzen
 Das [Annie's](https://www.annies.nu/) lädt ein, direkt auf einem Holzsteg über der Gracht Platz zu nehmen und eine Auswahl an Cocktails, Drinks und Speisen zu probieren. Ich habe beim ersten Besuch den Smoothie &raquo;Berry Bomb&laquo; (Blauwe bessen, bramen, banaan, açai en aardbei) für 5.75&thinsp;€ probiert. Sehr fruchtig und empfehlenswert an heißen Sommertagen!
 
-{{< my-own-image-v2 src="smoothie.jpg" width="400px;" height="auto">}}
+{{< my-own-image-v2 src="smoothie.jpg" width="100%" max-width="50vw" >}}
 
 ### Frietcafé La Fresh: Hausgemachte Pommes Frites und andere Snacks
 Auch eine Empfehlung wert ist [La Fresh](https://lafresh.nl/), welches direkt an der Haarlemmerstraat liegt. Dort gibt es frische *friet* aus regionalen Kartoffeln und andere kleine Snacks für den Hunger zwischendurch. Zuerst war ich etwas skeptisch, als ich am Tresen die Erdnusssauce empfohlen bekam. Allerdings ist auch diese selbstgemacht und hat die Pommes Frites gut verfeinert :smile:
 
-{{< my-own-image-v2 src="friets_la_fresh.jpg" width="400px;" height="auto" >}}
+{{< my-own-image-v2 src="friets_la_fresh.jpg" max-height="60vh" >}}
 
