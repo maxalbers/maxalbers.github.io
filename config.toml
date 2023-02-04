@@ -92,7 +92,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # website title for Open Graph and Twitter Cards
   title = "Max Albers"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "Ich heiße Maximilian und studiere Chemie im Master. Hier nehme ich euch mit zu meinem Auslandssemester und zeige euch die Dinge, die mich inspirieren."
+  description = "Ich heiße Maximilian und studiere Chemie im Master. Hier nehme ich dich mit zu meinem Auslandssemester und zeige dir die Dinge, die mich inspirieren."
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
