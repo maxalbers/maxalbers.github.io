@@ -92,7 +92,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # website title for Open Graph and Twitter Cards
   title = "Max Albers"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "Über mich und kleiner Blog"
+  description = "Ich heiße Maximilian und studiere Chemie im Master. Hier nehme ich euch mit zu meinem Auslandssemester und zeige euch die Dinge, die mich inspirieren."
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
@@ -525,9 +525,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   #  Site SEO config
   [params.seo]
     # image URL
-    image = ""
+    image = "/thumbnail_preview.jpg"
     # thumbnail URL
-    thumbnailUrl = ""
+    thumbnailUrl = "/thumbnail_preview.jpg"
 
   #  Analytics config
   [params.analytics]
