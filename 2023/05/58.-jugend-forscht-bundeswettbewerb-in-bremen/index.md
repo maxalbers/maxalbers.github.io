@@ -1,4 +1,4 @@
-# 58. Jugend forscht-Bundesettbewerb in Bremen
+# 58. Jugend forscht-Bundeswettbewerb in Bremen
 
 ## Jugend forscht
 Der Nachwuchswettbewerb Jugend forscht ist die wahrscheinlich bedeutsamste Gelegenheit für Schülerinnnen und Schüler, ihre Talente auf dem Gebiet der Naturwissenschaften und Technik unter Beweis zu stellen. Dieses Jahr fand der Wettbewerb bereits zum 58. Mal statt und kann damit auf eine lange Geschichte zurückblicken. Der Wettbewerb gliedert sich in drei Ebenen, die Regional-, Landes- und den Bundeswettbewerb. Nur die von unabhängigen Fachjurys Erstplatzierten qualifizieren sich für die nächsthöhere Ebene, sodass man auf dem Bundeswettbewerb die erfolgreichsten Projekte aus jedem Bundesland sieht. Teilnehmen können Schülerinnen und Schüler in ganz verschiedenen Sparten von A wie Arbeitswelt bis T wie Technik.
@@ -49,6 +49,6 @@ Auf der Rückfahrt plante ich für den Montag einen kurzen Stopp in Hamburg ein,
 
 Mein erster Besuch dort vor zwei Jahren war noch echt regnerisch, aber diesmal hatte ich Glück und es war sehr warm und sonnig. Ich begann mit einem Lunch am Jungfernstieg und spazierte dann ausgedehnt entlang eines Grüngürtels bis an die Elbe. Oberhalb der Landungsbrücken gibt es einen sehr schönen Ausblick über das Hafengelände. Nach etwas Bummelei entschloss ich mich spontan zu einer Hafenrundfahrt (Große Hafenrundfahrt, Reederei Albicht) entlang des Hafens und in die Speicherstadt. Ich hatte Glück mit Uhrzeit und Schiff, denn nur während des Hochwassers (es gibt einen Tidenhub von 4&nbsp;m in Hamburg!) kann man mit einer kleinen Barkasse in die Fleets der Speicherstadt fahren. Das hat Spaß gemacht und die junge Kapitänin hat uns unterhaltsam umhergeschippert. Nachmittags ging es dann mit einem durchgehenden ICE nach Erlangen über Berlin wieder nach Hause.
 
-{{< my-own-image-v2 src="hamburg-terminal.jpg" caption="Im Hamburger Hafen liegt das Terminal Tollerort." >}}
+{{< my-own-image-v2 src="hamburg-terminal.jpg" max-height="80vh" caption="Im Hamburger Hafen liegt das Terminal Tollerort." >}}
 {{< my-own-image-v2 src="hamburg-speicherstadt.jpg" caption="Die Speicherstadt -- vom Industriezentrum zur Hafencity und Sehenswürdigkeit." >}}
 
