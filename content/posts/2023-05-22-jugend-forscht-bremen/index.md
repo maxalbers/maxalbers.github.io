@@ -1,5 +1,5 @@
 ---
-title: "58. Jugend forscht-Bundesettbewerb in Bremen"
+title: "58. Jugend forscht-Bundeswettbewerb in Bremen"
 date: 2023-05-22T10:05:00+02:00
 draft: false
 lightgallery: true
