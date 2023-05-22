@@ -3,9 +3,25 @@
         <title>Max Albers</title>
         <link>https://max-albers.de/</link>
         <description>Ich heiße Maximilian und studiere Chemie im Master. Hier nehme ich dich mit zu meinem Auslandssemester und zeige dir die Dinge, die mich inspirieren.</description>
-        <generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Tue, 20 Dec 2022 22:00:40 &#43;0200</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Mon, 22 May 2023 10:05:00 &#43;0200</lastBuildDate>
             <atom:link href="https://max-albers.de/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>58. Jugend forscht-Bundesettbewerb in Bremen</title>
+    <link>https://max-albers.de/2023/05/58.-jugend-forscht-bundesettbewerb-in-bremen/</link>
+    <pubDate>Mon, 22 May 2023 10:05:00 &#43;0200</pubDate>
+    <author>Maximilian Albers</author>
+    <guid>https://max-albers.de/2023/05/58.-jugend-forscht-bundesettbewerb-in-bremen/</guid>
+    <description><![CDATA[Jugend forscht Der Nachwuchswettbewerb Jugend forscht ist die wahrscheinlich bedeutsamste Gelegenheit für Schülerinnnen und Schüler, ihre Talente auf dem Gebiet der Naturwissenschaften und Technik unter Beweis zu stellen. Dieses Jahr fand der Wettbewerb bereits zum 58. Mal statt und kann damit auf eine lange Geschichte zurückblicken. Der Wettbewerb gliedert sich in drei Ebenen, die Regional-, Landes- und den Bundeswettbewerb. Nur die von unabhängigen Fachjurys Erstplatzierten qualifizieren sich für die nächsthöhere Ebene, sodass man auf dem Bundeswettbewerb die erfolgreichsten Projekte aus jedem Bundesland sieht.]]></description>
+</item>
+<item>
+    <title>test post for debug purposes</title>
+    <link>https://max-albers.de/2023/02/test-post-for-debug-purposes/</link>
+    <pubDate>Tue, 07 Feb 2023 22:22:40 &#43;0200</pubDate>
+    <author>Maximilian Albers</author>
+    <guid>https://max-albers.de/2023/02/test-post-for-debug-purposes/</guid>
+    <description><![CDATA[Norwegen Dies ist ein Test-Post, in dem es um die Wanderung auf den Gipfel des Myrhønna gehen soll. Die Tour hat eine Gesamtlänge von nur 5.9 km, führt aber dennoch entlang eines felsigen Pfades auf den 1455 hohen Gipfel. Von dort genießt man eine hervorragende Aussicht auf den Jostedalsbreen. Dieser Glescher ist mit einer Länge von 40 km der größte Gletscher auf dem europäischen Festland.]]></description>
+</item>
+<item>
     <title>Übersicht der Museen</title>
     <link>https://max-albers.de/2022/12/%C3%BCbersicht-der-museen/</link>
     <pubDate>Tue, 20 Dec 2022 22:00:40 &#43;0200</pubDate>
