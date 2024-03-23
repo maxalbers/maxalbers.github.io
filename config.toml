@@ -222,7 +222,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.social]
     GitHub = "maxalbers"
     Linkedin = "m-albers"
-    Twitter = "max_a_albers"
+    X-Twitter = "max_a_albers"
     Instagram = "max.a.alb"
     Facebook = ""
     Telegram = ""
@@ -294,12 +294,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     RootMe= ""
     Phone = ""
     Email = "" # xy@example.com
-    #Komoot = "297363564652" # need commit to themes/LoveIt/assets/data/social.yaml
+    Komoot = "297363564652" # need commit to themes/LoveIt/assets/data/social.yaml
     RSS = true #
 
     [params.social.Paypal]
       # weight when arranging icons (the greater the weight, the later the icon is positioned)
-      weight = 45
+      weight = 99
       # your social ID
       id = "maxalbers28"
       # prefix of your social link
