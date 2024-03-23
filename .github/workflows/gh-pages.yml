@@ -8,9 +8,9 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
@@ -20,6 +20,13 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
+      
+      - uses: actions/cache@v3
+        with:
+          path: /home/runner/.cache/hugo_cache    # <-- with hugo version v0.116.0 and above
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-hugomod-
 
       - name: Build
         run: hugo --baseURL "https://max-albers.de"
