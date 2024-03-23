@@ -16,8 +16,7 @@ jobs:
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
-        # Upgraded manually to most recent version for Node.js 20 compatibility
-        uses: peaceiris/actions-hugo@main
+        uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
           extended: true
@@ -33,8 +32,7 @@ jobs:
         run: hugo --baseURL "https://max-albers.de"
 
       - name: Deploy
-        # Upgraded manually to most recent version for Node.js 20 compatibility
-        uses: peaceiris/actions-gh-pages@main
+        uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
