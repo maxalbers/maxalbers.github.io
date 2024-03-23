@@ -1,4 +1,5 @@
 *.xcf
 .local/
+.vscode/
 public/
 resources/_gen/
