@@ -92,7 +92,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # website title for Open Graph and Twitter Cards
   title = "Max Albers"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "Ich heiße Maximilian und studiere Chemie im Master. Hier nehme ich dich mit zu meinem Auslandssemester und zeige dir die Dinge, die mich inspirieren."
+  description = "Ich heiße Maximilian und stelle hier Reiseberichte vor und was mich sonst noch bewegt. Schau gerne rein! Im Beruf passioniert forschend im Bereich Elektrochemie, in der Freizeit mit großem Interesse für Politik, Gesellschaft, Kultur und Natur engagiert."
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
@@ -200,7 +200,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of avatar shown in home page
       avatarURL = "/images/avatar2.jpg"
       #  title shown in home page (HTML format is supported)
-      title = "Ab in die Niederlande!"
+      title = "Auf zu neuen Ufern!"
       # subtitle shown in home page (HTML format is supported)
       subtitle = "<em>Die gefährlichste aller Weltanschauungen ist die Weltanschauung der Leute, welche die Welt nicht angeschaut haben.</em>"
       # whether to use typeit animation for subtitle
