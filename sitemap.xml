@@ -2,15 +2,18 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://max-albers.de/</loc><lastmod>2024-04-20T23:59:04&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/posts/</loc><lastmod>2024-04-20T23:59:04&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/tags/roadtrip/</loc><lastmod>2024-04-20T23:59:04&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/tags/</loc><lastmod>2024-04-20T23:59:04&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/tags/ungarn/</loc><lastmod>2024-04-20T23:59:04&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/tags/urlaub/</loc><lastmod>2024-04-20T23:59:04&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/2024/04/urlaubsreise-richtung-balkan-arrow_right-tag-1-budapest-hungary/</loc><lastmod>2024-04-20T23:59:04&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://max-albers.de/2023/05/58.-jugend-forscht-bundeswettbewerb-in-bremen/</loc><lastmod>2023-05-22T22:14:16&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://max-albers.de/tags/bremen/</loc><lastmod>2023-05-22T22:14:16&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://max-albers.de/tags/bundeswettbewerb/</loc><lastmod>2023-05-22T22:14:16&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://max-albers.de/tags/hamburg/</loc><lastmod>2023-05-22T22:14:16&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://max-albers.de/tags/jugend-forscht/</loc><lastmod>2023-05-22T22:14:16&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://max-albers.de/</loc><lastmod>2024-03-25T19:50:33&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://max-albers.de/posts/</loc><lastmod>2023-05-22T22:14:16&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://max-albers.de/tags/</loc><lastmod>2023-05-22T22:14:16&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://max-albers.de/tags/urlaub/</loc><lastmod>2023-05-22T22:14:16&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://max-albers.de/tags/ausfl%C3%BCge/</loc><lastmod>2023-02-01T09:14:27&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://max-albers.de/tags/museen/</loc><lastmod>2023-01-31T16:06:46&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://max-albers.de/tags/%C3%BCbersicht/</loc><lastmod>2023-01-31T16:06:46&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -33,7 +36,7 @@
             <loc>https://max-albers.de/tags/fahrrad/</loc><lastmod>2023-02-01T09:29:01&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://max-albers.de/tags/swapfiets/</loc><lastmod>2023-02-01T09:29:01&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://max-albers.de/tags/wohnung/</loc><lastmod>2023-02-01T09:29:01&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://max-albers.de/about/</loc><lastmod>2024-03-25T19:50:33&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://max-albers.de/about/</loc><lastmod>2024-03-25T19:50:33&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>https://max-albers.de/tags/norwegen/</loc><lastmod>2022-08-22T19:31:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://max-albers.de/2022/08/norwegen-wanderung-myrh%C3%B8nna/</loc><lastmod>2022-08-22T19:31:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://max-albers.de/tags/wanderung/</loc><lastmod>2022-08-22T19:31:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
