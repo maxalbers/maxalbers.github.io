@@ -3,7 +3,7 @@ title: "Urlaubsreise Richtung Balkan :arrow_right: Tag 1: Budapest :hungary:"
 date: 2024-04-20T21:07:40+02:00
 draft: false
 lightgallery: true
-tags: ["urlaub", "ungarn", "roadtrip"]
+tags: ["urlaub", "ungarn", "roadtrip", "budapest"]
 toc:
   enable: false
   auto: true
