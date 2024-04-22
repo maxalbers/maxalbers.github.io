@@ -1,15 +1,15 @@
 ---
-title: "Tag 3 in Budapest:cityscape: Energie tanken"
+title: "Tag 3: In Budapest Energie tanken :cityscape:"
 date: 2024-04-22T18:41:00+02:00
 draft: false
 lightgallery: true
-tags: ["urlaub", "budapest", "norwegen"]
+tags: ["urlaub", "ungarn", "budapest"]
 toc:
   enable: true
   auto: true
 resources:
 - name: featured-image-preview
-  src: museumkaart_e.jpg
+  src: museumsgarten.jpg
 ---
 ## Über das Solo-Travelling
 Heute habe ich richtig gespürt, wie mein Körper neue Energie tankt. Ich bin seit vorgestern Abend in Budapest und habe die wichtigsten Highlights der Stadt gesehen und mir einen schönen Überblick über die Stadt verschafft. Ich kenne meine Wohnung, die Straße, das Viertel und auch einige Teile der Innenstadt.
