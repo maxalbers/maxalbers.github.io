@@ -92,7 +92,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # website title for Open Graph and Twitter Cards
   title = "Max Albers"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "Ich heiße Maximilian und stelle hier Reiseberichte vor und was mich sonst noch bewegt. Schau gerne rein! Im Beruf passioniert forschend im Bereich Elektrochemie, in der Freizeit mit großem Interesse für Politik, Gesellschaft, Kultur und Natur engagiert."
+  description = "Ich heiße Maximilian und teile hier meine Reiseberichte und Gedanken. Schau gerne rein! Wenn ich nicht gerade an meiner Promotion zur nachhaltigen Elektrokatalyse arbeite, interessiere ich mich für Musik, Kultur, Politik, Gesellschaft und mehr."
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
@@ -113,7 +113,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       #  whether to use typeit animation for title name
-      typeit = false
+      typeit = true
 
   # Footer config
   [params.footer]
@@ -200,11 +200,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of avatar shown in home page
       avatarURL = "/images/avatar2.jpg"
       #  title shown in home page (HTML format is supported)
-      title = "Auf zu neuen Ufern!"
+      title = "Wohin die Reise auch führt ..."
       # subtitle shown in home page (HTML format is supported)
       subtitle = "<em>Die gefährlichste aller Weltanschauungen ist die Weltanschauung der Leute, welche die Welt nicht angeschaut haben.</em>"
       # whether to use typeit animation for subtitle
-      typeit = true
+      typeit = false
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
@@ -506,11 +506,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   #  TypeIt config
   [params.typeit]
     # typing speed between each step (measured in milliseconds)
-    speed = 70
+    speed = 150
     # blinking speed of the cursor (measured in milliseconds)
     cursorSpeed = 1000
     # character used for the cursor (HTML format is supported)
-    cursorChar = "|"
+    cursorChar = "<svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\"><path d=\"M13 21c0 .552.447 1 1 1h2v2h-8v-2h2.007c.552 0 1-.448 1-1v-18c0-.552-.448-1-1-1h-2.007v-2h8v2h-2c-.553 0-1 .448-1 1v18z\"/></svg>"
     # cursor duration after typing finishing (measured in milliseconds, "-1" means unlimited)
     duration = -1
 
