@@ -1,5 +1,5 @@
 ---
-title: "Tag 5 und 6: Belgrad zwischen Moderne und jugoslawischem Erbe"
+title: "Tag 5 und 6: Belgrad als Stadt mit langer Geschichte"
 date: 2024-04-25T14:06:00+02:00
 draft: false
 lightgallery: true
@@ -9,7 +9,7 @@ toc:
   auto: true
 resources:
 - name: featured-image-preview
-  src: gellert.jpg
+  src: park_e.jpg
 ---
 Gestern habe ich Ungarn in südlicher Richtung verlassen, um mit Belgrad die nächste Hauptstadt auf meiner Reise anzusteuern. Heute zu Serbien gehörend, war sie viele Jahre Zentrum Jugoslawiens. Von Budapest aus kommend, fällt auf, dass bereits kurz hinter der Stadt das Land nur noch sehr dünn besiedelt ist. Die Autobahn wird links und rechts hauptsächlich von riesigen Wiesenflächen und Wäldern umsäumt.
 
@@ -33,7 +33,7 @@ Schließlich betraten wir auch noch einen von den Österreichern angelegten ehem
 
 {{< my-own-image-v2 src="am_ufer_e.jpg" caption="Etwas Street Art am älteren Teil des Save-Ufers." >}}
 ## Uferspaziergang an der Save
-Anschließend bin ich ausgiebig entlang der Save am Ufer entlang spaziert. Dieses ist im Sinne einer westlichen Flaniermeile gebaut, aber in Teilen immer noch unfertig und irgendwie künstlich wirkend. Alles ist einfach zu perfekt, um mit meinem bisherigen Eindruck einer lässigen Stadt und Kultur auf dem Balkan zu harmonieren. Große Teile des Ufers gehören zum _Waterfront_-Projekt, das zu erheblichen Teilen durch die Vereinigten Arabischen Emirate finanziert wurde. Während der vorherigen Führung habe ich einen in Deutschland lebenden Serben kennengelernt, der diese Veränderungen seiner ehemaligen Heimat kritisch sieht. Hier führt viel Korruption dazu, dass arabische Scheichs Teile der Stadt in ihrem Stil für ihre vermögenden Gäste umgestalten, mit Apartment- und Hotelpreisen weit über dem ortsüblichen Niveau. Nichtsdestotrotz lässt es sich hier gut bei Sonnenschein spazieren und eigens errichtete Fotobrücken oberhalb des Flussufers stellen die bestmögliche Perspektive für die Fotos sicher 
+Anschließend bin ich ausgiebig entlang der Save am Ufer entlang spaziert. Dieses ist im Sinne einer westlichen Flaniermeile gebaut, aber in Teilen immer noch unfertig und irgendwie künstlich wirkend. Alles ist einfach zu perfekt, um mit meinem bisherigen Eindruck einer lässigen Stadt und Kultur auf dem Balkan zu harmonieren. Große Teile des Ufers gehören zum _Waterfront_-Projekt, das zu Teilen durch die Vereinigten Arabischen Emirate finanziert wurde. Während der vorherigen Führung habe ich einen in Deutschland lebenden Serben kennengelernt, der diese Veränderungen seiner ehemaligen Heimat kritisch sieht. Hier führt viel Korruption dazu, dass arabische Scheichs Teile der Stadt in ihrem Stil für ihre vermögenden Gäste umgestalten, mit Apartment- und Hotelpreisen weit über dem ortsüblichen Niveau. Nichtsdestotrotz lässt es sich hier gut bei Sonnenschein spazieren und eigens errichtete Fotobrücken oberhalb des Flussufers stellen die bestmögliche Perspektive für die Fotos sicher. In jedem Fall bildet sich hier eine weitere, neue Identität Belgrads heraus. Möglicherweise der Versuch, etwas mehr Prestige zu entwickeln und zu anderen großen Städten aufzuschließen.
 
 {{< my-own-image-v2 src="waterfront_skyline.jpg" caption="Die geplante Skyline sieht sehr auffällig und modern aus, steht aber im Kontrast zur restlichen Stadt." >}}
 
