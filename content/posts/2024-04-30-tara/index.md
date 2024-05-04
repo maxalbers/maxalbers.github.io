@@ -1,5 +1,5 @@
 ---
-title: "Tag 9 und 10: Naturpark Tara mit Schwarzwald Vibes"
+title: "Tag 9 und 10: Naturpark Tara mit Schwarzwald Vibes :national_park:"
 date: 2024-04-30T18:19:00+02:00
 draft: false
 lightgallery: true
@@ -7,9 +7,6 @@ tags: ["urlaub", "serbien", "balkan", "tara"]
 toc:
   enable: true
   auto: true
-mapbox:
-  lightStyle: mapbox://styles/mapbox/light-v1?optimize=true
-  darkStyle: mapbox://styles/mapbox/dark-v1?optimize=true
 resources:
 - name: featured-image-preview
   src: mitrovac.jpg
@@ -57,7 +54,7 @@ Gespickt mit den Fotos von weiteren leckeren Mahlzeiten in Mitrovac hier noch me
 
 {{< my-own-image-v2 src="pljeskavica.jpg" caption="Pljeskavica: Hacksteck mit dicker Schinkenscheibe und Raspelkäse (ähnlich Feta), scharf gewürzt mit Paprika-Pulver und rohen Zwiebeln." width="30em" >}}
 
-- Ich gewinne den Eindruck, dass das Land in einem starken Umbruch ist. Die von mir erwähnten Autobahnen sind erst wenige Jahre alt und teils noch nicht bis zum Ende fertiggestellt. So ist es mit vielen Projekten, wie auch der Waterfront-Siedlung in Belgrad. Wo ausländische Investoren (Autobahnbrücken mit chinesischer Beschriftung) tätig werden, wirkt das Land sehr modern. Sonst Infrstruktur-mäßig aus der Zeit gefallen.
+- Ich gewinne den Eindruck, dass das Land in einem starken Umbruch ist. Die von mir erwähnten Autobahnen sind erst wenige Jahre alt und teils noch nicht bis zum Ende fertiggestellt. So ist es mit vielen Projekten, wie auch der Waterfront-Siedlung in Belgrad. Wo ausländische Investoren (Autobahnbrücken mit chinesischer Beschriftung) tätig werden, wirkt das Land sehr modern. Sonst Infrastruktur-mäßig aus der Zeit gefallen.
 - Die Preise sind, vor allem auf dem Land, erstaunlich niedrig. Umgerechnet in Euro zahlt man hier nicht selten die Hälfte oder weniger für die selben Produkte wie in Deutschland.
 - Die Menschen sind ausgesprochen freundlich und hilfsbereit. Ich habe den Eindruck, dass Fremde zwar nicht so häufig gegrüßt oder eher knapp angesprochen werden, aber wenn ich Fragen hatte oder Hilfe brauchte, nahmen sich die Menschen immer viel Zeit und bemühten sich zusehends. Dem steht nur bedingt entgegen, dass viele nur einzelne Brocken Englisch können.
 
