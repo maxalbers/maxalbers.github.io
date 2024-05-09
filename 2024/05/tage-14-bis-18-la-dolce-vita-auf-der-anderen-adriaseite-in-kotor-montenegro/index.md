@@ -2,7 +2,7 @@
 
 
 {{< admonition info >}}
-Ein Aufenthalt von einer Woche lässt sich leider kaum an einem Abend zusammenfassen; ich lade trotzdem aber schonmal den ersten Teil hoch :wink: Ein Update folgt zeitnah
+Ein Aufenthalt von einer Woche lässt sich leider kaum an einem Abend zusammenfassen; ich lade ergänze hier in Kürze :wink: Version 2/$\infty$
 {{< /admonition >}}
 
 
@@ -34,4 +34,18 @@ Zu Beginn meines Aufenthaltes musste ich mich erstmal von dem kleinen Unfall auf
 
 Unsere Hostel-Guides gingen vorweg, da sie hier ständig herfahren und den Weg in und auswendig kennen. Auf dem Dach hat man einen phänomenalen Blick über die Bucht von Kotor und sieht die untergehende Sonne. Zwei Mitarbeiter grillten ein überraschend umfangreiches Abendessen und wir aßen gemütlich. Der Ausflug war überaus lohnenswert und der Preis bei dem Gebotenen mehr als gerechtfertigt.
 
-Bei dieser Gelegenheit konnte ich zum Glück auch einige sehr nette Menschen im Hostel kennenlernen, mit denen ich weitestgehend die nächsten Tage verbrachte.
+Bei dieser Gelegenheit konnte ich zum Glück auch einige sehr nette Menschen im Hostel kennenlernen, mit denen ich weitestgehend die nächsten Tage verbrachte. Abends spazierten ich mit ein paar noch am Strand entlang. Der ist zwar sehr klein und nur ein Kiesstrand, dafür kann man aber zu Fuß hinlaufen und hat einen schönen flachen Einstieg ins Meer mit toller Aussicht über die Bucht. In derselben Gruppe entschieden wir uns abends dafür, am nächsten Morgen in aller Früh aufzustehen und eine Bootsfahrt zu buchen.
+
+## Bootsfahrt durch die Bucht zur blauen Höhle
+Wer schonmal in Kotor war, kann die massive Werbung für die blaue Höhle (Blue Cave, Plava špilja) kaum übersehen haben. Ja, es sieht so aus als würde jeder Tourist wie ein Esel dorthin getrieben, aber ich kann bereits spoilern: es lohnt sich!
+Es gibt zahlreiche Anbieter, aber die haben sich augenscheinlich wie ein Kartell organisiert, sodass man da keine großen Preisunterschiede feststellen dürfte. Allerdings hat sich etwas traktieren und verhandeln ausgezahlt, sodass wir für einen vernünftigen Preis zu viert eine Privattour mit modernem Boot und unserem coolen Skipper Dragon gebucht haben.
+
+{{< my-own-image-v2 src="lady_of_the_rocks.jpg" caption="Die Mini-Insel Lady of the Rocks (Gospa od Škrpjela) liegt in der Bucht vor Perast mit ihrer Schwesterinsel, auf der sich ein nicht für die Öffentlichkeit zugängliches Kloster befindet. Sie wurde künstlich aufgeschüttet und jedes Jahr werden in einem Ritual von den Einheimischen weitere Steine hergebracht." >}}
+
+Die Touren führen üblicherweise nicht nur zur blauen Höhle, sondern beinhalten auch einen Halt in Perast und auf dem Inselchen Lady of the Rocks unmittelbar for Perast. Wir (zumindest drei von uns) waren aber verrückt danach, bei strahlendem Sonnenschein schwimmen zu gehen, und so haben wir einen längeren Aufenthalt an der blauen Höhle ausgehandelt. Wir sind bereits gegen 9.30&nbsp;Uhr gestartet, denn dann ist die Sonne noch eher beherrschbar und -- vor allem -- die Kreuzfahrttouristen noch nicht da. Denn in der blauen Höhle kann es schon sehr voll werden und auch während unseres Besuches waren noch einige andere Boote da.
+
+In der ganzen Bucht ist das Wasser wunderschön klar und in Nähe der Höhe hat es tatsächlich einen starken blauen Schimmer. Mir hat das sehr gut gefallen! Aufgrund des Andrangs ist es zu gefährlich, in der Höhe schwimmen zu gehen, deswegen hielt Dragon etwas außerhalb mit direktem Blick auf die Höhle an und wir gingen für ca. 20-30&thinsp;min schwimmen. Der Sprung vom Boot ins dann doch kühle Wasser kostete etwas Überwindung, aber solange ich in Bewegung blieb war alles super.
+
+{{< my-own-image-v2 src="blue_cave.jpg" caption="In der blauen Höhle." >}}
+
+Auf der Fahrt von und zur blauen Höhle hat man nicht nur eine hervorragende Aussicht auf die ganzen Dörfer in der Bucht, sondern beispielsweise auch auf die ehemaligen U-Boot-Bunker aus dem Kalten Krieg. Jugoslawien unterhielt hier eine erhebliche U-Boot-Flotte und baute getarnte Bunker in die Berge. Heute unterhält Montenegro keine eigene Marine mehr und die Bunker können als Höhlen befahren werden. An anderer Stelle wurde am Standort der ehemaligen Kriegsmarine ein Luxusresort mit für normale Menschen unbezahlbaren Hotels errichtet. Hier sind wir auch an der Riesenyacht eines Milliardärs aus Monaco vorbeigefahren. Ich finde es sehr spannend, mit dem privaten Boot in deren Gärten und so weiter schauen zu können, wo zur Straße sicherlich alles blickdicht abgeriegelt ist.
