@@ -4,9 +4,6 @@
 public/
 resources/_gen/
 
-# Submodules -> watched by dependabot
-themes/LoveIt
-
 ## OS Files
 # Windows
 Thumbs.db
