@@ -18,7 +18,8 @@ languageName = "Deutsch"
 hasCJKLanguage = false
 
 # default amount of posts in each pages
-paginate = 12
+[pagination]
+  pagerSize = 12
 # google analytics code [UA-XXXXXXXX-X]
 googleAnalytics = ""
 # copyright description used only for seo schema
@@ -37,12 +38,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Taxonomies
 [taxonomies]
   tag = "tags"
-
-# Author config
-[author]
-  name = "Maximilian Albers"
-  email = ""
-  link = ""
 
 # Menu config
 [menu]
@@ -95,6 +90,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   description = "Ich heiße Maximilian und teile hier meine Reiseberichte und Gedanken. Schau gerne rein! Wenn ich nicht gerade an meiner Promotion zur nachhaltigen Elektrokatalyse arbeite, interessiere ich mich für Musik, Kultur, Politik, Gesellschaft und mehr."
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
+
+  # Author config
+  [params.author]
+    name = "Maximilian Albers"
+    email = ""
+    link = ""
 
   # Header config
   [params.header]
@@ -619,7 +620,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   #  privacy of the Google Analytics (replaced by params.analytics.google)
   [privacy.googleAnalytics]
     # ...
-  [privacy.twitter]
+  [privacy.x]
     enableDNT = true
   [privacy.youtube]
     privacyEnhanced = true
